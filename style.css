@@ -39,7 +39,7 @@ header {
     padding: 0 16px;    
 }
 
-.card { background:#fff; border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,.08); padding:16px; margin-bottom:16px; }
+.card {background:#fff; border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,.08); padding:16px; margin-bottom:16px; }
 
 .row { display:flex; gap:12px; flex-wrap:wrap; }
 
@@ -63,6 +63,7 @@ textarea { min-height:90px; resize:vertical; }
     align-items: center;
 }
 
+
 a{
     background-color: cadetblue;
     padding:5px;
@@ -70,6 +71,7 @@ a{
     margin:10px;
     color:white;
     text-decoration: none;
+    
 }
 
 #title{
@@ -78,6 +80,7 @@ a{
     text-align: center;
     font-size: larger;
     padding: 10px;
+    
 }
 
 footer{
@@ -88,7 +91,7 @@ footer{
 }
 
 #sub{
-    margin-top: 30px; 
+  margin-top: 30px; 
   background-color: cadetblue;
   color: white; 
   padding: 10px; 
@@ -98,6 +101,8 @@ footer{
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding:20px;
+  filter: drop-shadow(0 0 7px cyan);
 }
 
 .photo{
