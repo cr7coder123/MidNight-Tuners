@@ -16237,9 +16237,435 @@
   }
     },
     "Genesis":{
-
+"genesis-g70-global-gen1": {
+  "displayName": "Genesis G70 Gen 1 (Global compact luxury sedan, Kia Stinger platform twin)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2018": 24000,
+    "2019": 26000,
+    "2020": 28000,
+    "2021": 30000,
+    "2022": 32000,
+    "2023": 34000,
+    "2024": 36000,
+    "2025": 38000
+  }
+},
+"genesis-g80-global-gen1": {
+  "displayName": "Genesis G80 Gen 1 (Global mid-size luxury sedan, Hyundai Genesis successor)",
+  "productionYears": [2016,2017,2018,2019,2020],
+  "values": {
+    "2016": 18000,
+    "2017": 20000,
+    "2018": 22000,
+    "2019": 24000,
+    "2020": 26000
+  }
+},
+"genesis-g80-global-gen2": {
+  "displayName": "Genesis G80 Gen 2 (Global mid-size luxury sedan, new design language)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "values": {
+    "2021": 35000,
+    "2022": 37000,
+    "2023": 39000,
+    "2024": 41000,
+    "2025": 43000
+  }
+},
+"genesis-g90-global-gen1": {
+  "displayName": "Genesis G90 Gen 1 (Global full-size luxury sedan, Hyundai Equus successor)",
+  "productionYears": [2017,2018,2019,2020,2021],
+  "values": {
+    "2017": 25000,
+    "2018": 27000,
+    "2019": 29000,
+    "2020": 31000,
+    "2021": 33000
+  }
+},
+"genesis-g90-global-gen2": {
+  "displayName": "Genesis G90 Gen 2 (Global full-size luxury sedan, new design language)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 50000,
+    "2023": 52000,
+    "2024": 54000,
+    "2025": 56000
+  }
+},
+"genesis-gv70-global-gen1": {
+  "displayName": "Genesis GV70 Gen 1 (Global compact luxury SUV)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2020": 35000,
+    "2021": 37000,
+    "2022": 39000,
+    "2023": 41000,
+    "2024": 43000,
+    "2025": 45000
+  }
+},
+"genesis-gv80-global-gen1": {
+  "displayName": "Genesis GV80 Gen 1 (Global mid-size luxury SUV, first Genesis SUV)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2020": 42000,
+    "2021": 44000,
+    "2022": 46000,
+    "2023": 48000,
+    "2024": 50000,
+    "2025": 52000
+  }
+},
+"genesis-gv80coupe-global-gen1": {
+  "displayName": "Genesis GV80 Coupe Gen 1 (Global mid-size luxury SUV, sport variant of GV80)",
+  "productionYears": [2023,2024,2025],
+  "values": {
+    "2023": 55000,
+    "2024": 57000,
+    "2025": 59000
+  }
+}
     },
-    "GMC":{},
+    "GMC":{
+      "gmc-chevette-arg-gen1": {
+  "displayName": "GMC Chevette Gen 1 (Argentina compact sedan, GM T-platform)",
+  "productionYears": [1992,1993,1994,1995],
+  "values": {
+    "1992": 3500,
+    "1993": 4000,
+    "1994": 4500,
+    "1995": 5000
+  }
+},
+"gmc-envoy-usa-gen1": {
+  "displayName": "GMC Envoy Gen 1 (USA mid-size SUV, premium trim of GMC Jimmy)",
+  "productionYears": [1998,1999,2000,2001],
+  "values": {
+    "1998": 2500,
+    "1999": 3000,
+    "2000": 3500,
+    "2001": 4000
+  }
+},
+"gmc-envoy-usa-gen2": {
+  "displayName": "GMC Envoy Gen 2 (USA mid-size SUV, GMT360 platform)",
+  "productionYears": [2002,2003,2004,2005,2006,2007,2008,2009],
+  "values": {
+    "2002": 4200,
+    "2003": 4400,
+    "2004": 4600,
+    "2005": 4800,
+    "2006": 5000,
+    "2007": 5200,
+    "2008": 5400,
+    "2009": 5600
+  }
+},
+"gmc-typhoon-usa-gen1": {
+  "displayName": "GMC Typhoon Gen 1 (USA high-performance SUV, based on GMC Jimmy)",
+  "productionYears": [1992,1993],
+  "values": {
+    "1992": 25000,
+    "1993": 27000
+  }
+},
+"gmc-savana-usa-gen1": {
+  "displayName": "GMC Savana Gen 1 (USA full-size van, successor to GMC Vandura)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002],
+  "values": {
+    "1996": 3500,
+    "1997": 4000,
+    "1998": 4500,
+    "1999": 5000,
+    "2000": 5500,
+    "2001": 6000,
+    "2002": 6500
+  }
+},
+"gmc-savana-usa-gen2": {
+  "displayName": "GMC Savana Gen 2 (USA full-size van, facelift and modernization)",
+  "productionYears": [2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2003": 7000,
+    "2005": 7500,
+    "2010": 9000,
+    "2015": 11000,
+    "2020": 13000,
+    "2023": 15000,
+    "2025": 16000
+  }
+},
+"gmc-sierra-usa-gen1": {
+  "displayName": "GMC Sierra Gen 1 (USA full-size pickup, GMT800 platform)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005,2006],
+  "values": {
+    "1999": 6500,
+    "2000": 7000,
+    "2001": 7500,
+    "2002": 8000,
+    "2003": 8500,
+    "2004": 9000,
+    "2005": 9500,
+    "2006": 10000
+  }
+},
+"gmc-sierra-usa-gen2": {
+  "displayName": "GMC Sierra Gen 2 (USA full-size pickup, GMT900 platform)",
+  "productionYears": [2007,2008,2009,2010,2011,2012,2013],
+  "values": {
+    "2007": 10500,
+    "2008": 11000,
+    "2009": 11500,
+    "2010": 12000,
+    "2011": 12500,
+    "2012": 13000,
+    "2013": 13500
+  }
+},
+"gmc-sierra-usa-gen3": {
+  "displayName": "GMC Sierra Gen 3 (USA full-size pickup, K2XX platform)",
+  "productionYears": [2014,2015,2016,2017,2018],
+  "values": {
+    "2014": 18000,
+    "2015": 19000,
+    "2016": 20000,
+    "2017": 21000,
+    "2018": 22000
+  }
+},
+"gmc-sierra-usa-gen4": {
+  "displayName": "GMC Sierra Gen 4 (USA full-size pickup, T1XX platform)",
+  "productionYears": [2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2019": 30000,
+    "2020": 32000,
+    "2021": 34000,
+    "2022": 36000,
+    "2023": 38000,
+    "2024": 40000,
+    "2025": 42000
+  }
+},
+"gmc-canyon-usa-gen1": {
+  "displayName": "GMC Canyon Gen 1 (USA mid-size pickup, GMT355 platform)",
+  "productionYears": [2004,2005,2006,2007,2008,2009,2010,2011,2012],
+  "values": {
+    "2004": 4500,
+    "2005": 5000,
+    "2006": 5500,
+    "2007": 6000,
+    "2008": 6500,
+    "2009": 7000,
+    "2010": 7500,
+    "2011": 8000,
+    "2012": 8500
+  }
+},
+"gmc-canyon-usa-gen2": {
+  "displayName": "GMC Canyon Gen 2 (USA mid-size pickup, GMT700 platform)",
+  "productionYears": [2015,2016,2017,2018,2019,2020,2021],
+  "values": {
+    "2015": 15000,
+    "2016": 16000,
+    "2017": 17000,
+    "2018": 18000,
+    "2019": 19000,
+    "2020": 20000,
+    "2021": 21000
+  }
+},
+"gmc-canyon-usa-gen3": {
+  "displayName": "GMC Canyon Gen 3 (USA mid-size pickup, T1XX platform)",
+  "productionYears": [2023,2024,2025],
+  "values": {
+    "2023": 28000,
+    "2024": 30000,
+    "2025": 32000
+  }
+},
+"gmc-yukonxl-usa-gen1": {
+  "displayName": "GMC Yukon XL Gen 1 (USA full-size extended SUV, GMT800 platform)",
+  "productionYears": [2000,2001,2002,2003,2004,2005,2006],
+  "values": {
+    "2000": 5500,
+    "2001": 6000,
+    "2002": 6500,
+    "2003": 7000,
+    "2004": 7500,
+    "2005": 8000,
+    "2006": 8500
+  }
+},
+"gmc-yukonxl-usa-gen2": {
+  "displayName": "GMC Yukon XL Gen 2 (USA full-size extended SUV, GMT900 platform)",
+  "productionYears": [2007,2008,2009,2010,2011,2012,2013,2014],
+  "values": {
+    "2007": 9000,
+    "2008": 9500,
+    "2009": 10000,
+    "2010": 10500,
+    "2011": 11000,
+    "2012": 11500,
+    "2013": 12000,
+    "2014": 12500
+  }
+},
+"gmc-yukonxl-usa-gen3": {
+  "displayName": "GMC Yukon XL Gen 3 (USA full-size extended SUV, K2XX platform)",
+  "productionYears": [2015,2016,2017,2018,2019,2020],
+  "values": {
+    "2015": 18000,
+    "2016": 19000,
+    "2017": 20000,
+    "2018": 21000,
+    "2019": 22000,
+    "2020": 23000
+  }
+},
+"gmc-yukonxl-usa-gen4": {
+  "displayName": "GMC Yukon XL Gen 4 (USA full-size extended SUV, T1XX platform)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "values": {
+    "2021": 40000,
+    "2022": 42000,
+    "2023": 44000,
+    "2024": 46000,
+    "2025": 48000
+  }
+},
+"gmc-yukon-usa-gen1": {
+  "displayName": "GMC Yukon Gen 1 (USA full-size SUV, GMT400 platform)",
+  "productionYears": [1992,1993,1994,1995,1996,1997,1998,1999],
+  "values": {
+    "1992": 3500,
+    "1993": 4000,
+    "1994": 4500,
+    "1995": 5000,
+    "1996": 5500,
+    "1997": 6000,
+    "1998": 6500,
+    "1999": 7000
+  }
+},
+"gmc-yukon-usa-gen2": {
+  "displayName": "GMC Yukon Gen 2 (USA full-size SUV, GMT800 platform)",
+  "productionYears": [2000,2001,2002,2003,2004,2005,2006],
+  "values": {
+    "2000": 7500,
+    "2001": 8000,
+    "2002": 8500,
+    "2003": 9000,
+    "2004": 9500,
+    "2005": 10000,
+    "2006": 10500
+  }
+},
+"gmc-yukon-usa-gen3": {
+  "displayName": "GMC Yukon Gen 3 (USA full-size SUV, GMT900 platform)",
+  "productionYears": [2007,2008,2009,2010,2011,2012,2013,2014],
+  "values": {
+    "2007": 11000,
+    "2008": 11500,
+    "2009": 12000,
+    "2010": 12500,
+    "2011": 13000,
+    "2012": 13500,
+    "2013": 14000,
+    "2014": 14500
+  }
+},
+"gmc-yukon-usa-gen4": {
+  "displayName": "GMC Yukon Gen 4 (USA full-size SUV, K2XX platform)",
+  "productionYears": [2015,2016,2017,2018,2019,2020],
+  "values": {
+    "2015": 20000,
+    "2016": 21000,
+    "2017": 22000,
+    "2018": 23000,
+    "2019": 24000,
+    "2020": 25000
+  }
+},
+"gmc-yukon-usa-gen5": {
+  "displayName": "GMC Yukon Gen 5 (USA full-size SUV, T1XX platform)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "values": {
+    "2021": 38000,
+    "2022": 40000,
+    "2023": 42000,
+    "2024": 44000,
+    "2025": 46000
+  }
+},
+"gmc-terrain-usa-gen1": {
+  "displayName": "GMC Terrain Gen 1 (USA compact crossover SUV, Theta platform)",
+  "productionYears": [2010,2011,2012,2013,2014,2015,2016,2017],
+  "values": {
+    "2010": 4500,
+    "2011": 5000,
+    "2012": 5500,
+    "2013": 6000,
+    "2014": 6500,
+    "2015": 7000,
+    "2016": 7500,
+    "2017": 8000
+  }
+},
+"gmc-terrain-usa-gen2": {
+  "displayName": "GMC Terrain Gen 2 (USA compact crossover SUV, D2XX platform)",
+  "productionYears": [2018,2019,2020,2021,2022,2023],
+  "values": {
+    "2018": 12000,
+    "2019": 13000,
+    "2020": 14000,
+    "2021": 15000,
+    "2022": 16000,
+    "2023": 17000
+  }
+},
+"gmc-terrain-usa-gen3": {
+  "displayName": "GMC Terrain Gen 3 (USA compact crossover SUV, T1XX platform)",
+  "productionYears": [2024,2025],
+  "values": {
+    "2024": 25000,
+    "2025": 27000
+  }
+},
+"gmc-acadia-usa-gen1": {
+  "displayName": "GMC Acadia Gen 1 (USA mid-size crossover SUV, Lambda platform)",
+  "productionYears": [2007,2008,2009,2010,2011,2012],
+  "values": {
+    "2007": 4500,
+    "2008": 5000,
+    "2009": 5500,
+    "2010": 6000,
+    "2011": 6500,
+    "2012": 7000
+  }
+},
+"gmc-acadia-usa-gen2": {
+  "displayName": "GMC Acadia Gen 2 (USA mid-size crossover SUV, downsized redesign)",
+  "productionYears": [2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2017": 12000,
+    "2018": 13000,
+    "2019": 14000,
+    "2020": 15000,
+    "2021": 16000,
+    "2022": 17000
+  }
+},
+"gmc-acadia-usa-gen3": {
+  "displayName": "GMC Acadia Gen 3 (USA mid-size crossover SUV, T1XX platform)",
+  "productionYears": [2024,2025],
+  "values": {
+    "2024": 28000,
+    "2025": 30000
+  }
+}
+    },
     "Honda":{},
     "Hyundai":{},
     "Infiniti":{},
