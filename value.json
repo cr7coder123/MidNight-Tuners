@@ -16666,10 +16666,4023 @@
   }
 }
     },
-    "Honda":{},
-    "Hyundai":{},
-    "Infiniti":{},
-    "Jaguar":{},
+    "Honda":{
+      "honda-145-global-gen1": {
+  "displayName": "Honda 145 (Global compact sedan/hatch)",
+  "productionYears": [1972,1973,1974],
+  "values": {
+    "1972": 4500,
+    "1973": 5000,
+    "1974": 5500
+  }
+},
+"honda-1300-global-gen1": {
+  "displayName": "Honda 1300 (Global compact sedan)",
+  "productionYears": [1969,1970,1971,1972,1973],
+  "values": {
+    "1969": 4000,
+    "1970": 4200,
+    "1971": 4400,
+    "1972": 4600,
+    "1973": 4800
+  }
+},
+"honda-airwavepartner-jpn-gen1": {
+  "displayName": "Honda Airwave/Partner (Japan subcompact wagon/van)",
+  "productionYears": [2005,2006,2007,2008,2009,2010],
+  "values": {
+    "2005": 3500,
+    "2006": 4000,
+    "2007": 4500,
+    "2008": 5000,
+    "2009": 5500,
+    "2010": 6000
+  }
+},
+"honda-ascot-jpn-gen1": {
+  "displayName": "Honda Ascot (Japan mid-size sedan)",
+  "productionYears": [1989,1990,1991,1992,1993,1994,1995,1996,1997],
+  "values": {
+    "1989": 3000,
+    "1990": 3200,
+    "1991": 3400,
+    "1992": 3600,
+    "1993": 3800,
+    "1994": 4000,
+    "1995": 4200,
+    "1996": 4400,
+    "1997": 4600
+  }
+},
+"honda-acty-jpn-gen1": {
+  "displayName": "Honda Acty (Japan kei truck/van)",
+  "productionYears": [1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021],
+  "values": {
+    "1977": 2500,
+    "1978": 2550,
+    "1979": 2600,
+    "1980": 2650,
+    "1981": 2700,
+    "1982": 2750,
+    "1983": 2800,
+    "1984": 2900,
+    "1985": 3000,
+    "1986": 3050,
+    "1987": 3100,
+    "1988": 3150,
+    "1989": 3200,
+    "1990": 3250,
+    "1991": 3300,
+    "1992": 3350,
+    "1993": 3400,
+    "1994": 3450,
+    "1995": 3500,
+    "1996": 3550,
+    "1997": 3600,
+    "1998": 3650,
+    "1999": 3700,
+    "2000": 3750,
+    "2001": 3800,
+    "2002": 3850,
+    "2003": 3900,
+    "2004": 3950,
+    "2005": 4000,
+    "2006": 4050,
+    "2007": 4100,
+    "2008": 4150,
+    "2009": 4200,
+    "2010": 4250,
+    "2011": 4300,
+    "2012": 4350,
+    "2013": 4400,
+    "2014": 4450,
+    "2015": 4500,
+    "2016": 4600,
+    "2017": 4700,
+    "2018": 4800,
+    "2019": 4900,
+    "2020": 4950,
+    "2021": 5000
+  }
+},
+"honda-ballade-global-gen1": {
+  "displayName": "Honda Ballade (Global compact sedan, Civic-based)",
+  "productionYears": [1980,1981,1982,1983,1984,1985,1986],
+  "values": {
+    "1980": 2800,
+    "1981": 3000,
+    "1982": 3200,
+    "1983": 3400,
+    "1984": 3600,
+    "1985": 3800,
+    "1986": 4000
+  }
+},
+"honda-beat-jpn-gen1": {
+  "displayName": "Honda Beat (Japan kei roadster)",
+  "productionYears": [1991,1992,1993,1994,1995,1996],
+  "values": {
+    "1991": 6000,
+    "1992": 6500,
+    "1993": 7000,
+    "1994": 7500,
+    "1995": 8000,
+    "1996": 8500
+  }
+},
+"honda-capa-jpn-gen1": {
+  "displayName": "Honda Capa (Japan subcompact MPV)",
+  "productionYears": [1998,1999,2000,2001,2002],
+  "values": {
+    "1998": 3500,
+    "1999": 3700,
+    "2000": 3900,
+    "2001": 4100,
+    "2002": 4300
+  }
+},
+"honda-cityjazz-global-gen1": {
+  "displayName": "Honda City/Jazz (Global subcompact hatch/sedan)",
+  "productionYears": [1981,1982,1983,1984,1985,1986],
+  "values": {
+    "1981": 3000,
+    "1982": 3200,
+    "1983": 3400,
+    "1984": 3600,
+    "1985": 3800,
+    "1986": 4000
+  }
+},
+"honda-clarity-global-gen1": {
+  "displayName": "Honda Clarity (Global hydrogen/EV sedan)",
+  "productionYears": [2008,2009,2010,2011,2012,2013,2014],
+  "values": {
+    "2008": 12000,
+    "2009": 13000,
+    "2010": 14000,
+    "2011": 15000,
+    "2012": 16000,
+    "2013": 17000,
+    "2014": 18000
+  }
+},
+"honda-crx-global-gen1": {
+  "displayName": "Honda CR-X (aka Ballade Sports CR-X / Civic CR-X)",
+  "productionYears": [1983,1984,1985,1986,1987,1988,1989,1990,1991],
+  "values": {
+    "1983": 5500,
+    "1984": 6000,
+    "1985": 6500,
+    "1986": 7000,
+    "1987": 7500,
+    "1988": 8000,
+    "1989": 8500,
+    "1990": 9000,
+    "1991": 9500
+  }
+},
+"honda-crx-delsol-global-gen1": {
+  "displayName": "Honda CR-X del Sol (Global compact roadster)",
+  "productionYears": [1992,1993,1994,1995,1996,1997],
+  "values": {
+    "1992": 6000,
+    "1993": 6500,
+    "1994": 7000,
+    "1995": 7500,
+    "1996": 8000,
+    "1997": 8500
+  }
+},
+"honda-crz-global-gen1": {
+  "displayName": "Honda CR-Z (Global hybrid sports hatch)",
+  "productionYears": [2011,2012,2013,2014,2015,2016],
+  "values": {
+    "2011": 9000,
+    "2012": 9500,
+    "2013": 10000,
+    "2014": 10500,
+    "2015": 11000,
+    "2016": 11500
+  }
+},
+"honda-crossroad-jpn-gen1": {
+  "displayName": "Honda Crossroad Gen 1 (Japan SUV, rebadged Land Rover Discovery)",
+  "productionYears": [1993,1994,1995,1996,1997,1998],
+  "values": {
+    "1993": 7000,
+    "1994": 7500,
+    "1995": 8000,
+    "1996": 8500,
+    "1997": 9000,
+    "1998": 9500
+  }
+},
+"honda-crossroad-jpn-gen2": {
+  "displayName": "Honda Crossroad Gen 2 (Japan compact SUV, Honda original)",
+  "productionYears": [2007,2008,2009,2010],
+  "values": {
+    "2007": 6000,
+    "2008": 6500,
+    "2009": 7000,
+    "2010": 7500
+  }
+},
+"honda-crosstour-usa-gen1": {
+  "displayName": "Honda Crosstour (USA mid-size crossover hatchback)",
+  "productionYears": [2010,2011,2012,2013,2014,2015],
+  "values": {
+    "2010": 7000,
+    "2011": 8000,
+    "2012": 9000,
+    "2013": 10000,
+    "2014": 11000,
+    "2015": 12000
+  }
+},
+"honda-concerto-global-gen1": {
+  "displayName": "Honda Concerto (Global compact sedan/hatch)",
+  "productionYears": [1988,1989,1990,1991,1992,1993,1994],
+  "values": {
+    "1988": 4000,
+    "1989": 4200,
+    "1990": 4400,
+    "1991": 4600,
+    "1992": 4800,
+    "1993": 5000,
+    "1994": 5200
+  }
+},
+"honda-domani-jpn-gen1": {
+  "displayName": "Honda Domani (Japan compact sedan, Civic-based)",
+  "productionYears": [1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004],
+  "values": {
+    "1992": 4500,
+    "1993": 4600,
+    "1994": 4700,
+    "1995": 5000,
+    "1996": 5100,
+    "1997": 5200,
+    "1998": 5300,
+    "1999": 5400,
+    "2000": 5500,
+    "2001": 5600,
+    "2002": 5700,
+    "2003": 5800,
+    "2004": 6000
+  }
+},
+"honda-element-usa-gen1": {
+  "displayName": "Honda Element (USA compact crossover SUV)",
+  "productionYears": [2002,2003,2004,2005,2006,2007,2008,2009,2010,2011],
+  "values": {
+    "2002": 6000,
+    "2003": 6300,
+    "2004": 6600,
+    "2005": 7000,
+    "2006": 7300,
+    "2007": 7600,
+    "2008": 8000,
+    "2009": 8300,
+    "2010": 8600,
+    "2011": 9000
+  }
+},
+"honda-evplus-global-gen1": {
+  "displayName": "Honda EV Plus (Global electric hatchback, limited production)",
+  "productionYears": [1997,1998,1999],
+  "values": {
+    "1997": 12000,
+    "1998": 13000,
+    "1999": 14000
+  }
+},
+"honda-e-global-gen1": {
+  "displayName": "Honda e (Global electric city car)",
+  "productionYears": [2019,2020,2021,2022,2023,2024],
+  "values": {
+    "2019": 18000,
+    "2020": 19000,
+    "2021": 20000,
+    "2022": 21000,
+    "2023": 22000,
+    "2024": 23000
+  }
+},
+"honda-frvedix-jpn-gen1": {
+  "displayName": "Honda FR-V/Edix (Japan/Europe compact MPV, 3+3 seating)",
+  "productionYears": [2004,2005,2006,2007,2008,2009],
+  "values": {
+    "2004": 5000,
+    "2005": 5500,
+    "2006": 6000,
+    "2007": 6500,
+    "2008": 7000,
+    "2009": 7500
+  }
+},
+"honda-gienia-china-gen1": {
+  "displayName": "Honda Gienia (China compact sedan, version of 6th gen City)",
+  "productionYears": [2015,2016,2017,2018,2019],
+  "values": {
+    "2015": 7000,
+    "2016": 7500,
+    "2017": 8000,
+    "2018": 8500,
+    "2019": 9000
+  }
+},
+"honda-grace-jpn-gen1": {
+  "displayName": "Honda Grace (Japan compact sedan, version of 6th gen City)",
+  "productionYears": [2014,2015,2016,2017,2018,2019,2020],
+  "values": {
+    "2014": 7500,
+    "2015": 8000,
+    "2016": 8500,
+    "2017": 9000,
+    "2018": 9500,
+    "2019": 10000,
+    "2020": 10500
+  }
+},
+"honda-greiz-china-gen1": {
+  "displayName": "Honda Greiz (China compact liftback, version of 6th gen City)",
+  "productionYears": [2015,2016,2017,2018,2019],
+  "values": {
+    "2015": 7200,
+    "2016": 7700,
+    "2017": 8200,
+    "2018": 8700,
+    "2019": 9200
+  }
+},
+"honda-horizon-global-gen1": {
+  "displayName": "Honda Horizon (Global SUV, rebadged Isuzu Trooper)",
+  "productionYears": [1994,1995,1996,1997,1998,1999],
+  "values": {
+    "1994": 5000,
+    "1995": 5500,
+    "1996": 6000,
+    "1997": 6500,
+    "1998": 7000,
+    "1999": 7500
+  }
+},
+"honda-insight-global-gen1": {
+  "displayName": "Honda Insight Gen 1 (Global hybrid hatchback)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005,2006],
+  "values": {
+    "1999": 6000,
+    "2000": 6500,
+    "2001": 7000,
+    "2002": 7500,
+    "2003": 8000,
+    "2004": 8500,
+    "2005": 9000,
+    "2006": 9500
+  }
+},
+"honda-insight-global-gen2": {
+  "displayName": "Honda Insight Gen 2 (Global hybrid hatchback)",
+  "productionYears": [2009,2010,2011,2012,2013,2014],
+  "values": {
+    "2009": 5000,
+    "2010": 5500,
+    "2011": 6000,
+    "2012": 6500,
+    "2013": 7000,
+    "2014": 7500
+  }
+},
+"honda-insight-global-gen3": {
+  "displayName": "Honda Insight Gen 3 (Global hybrid sedan)",
+  "productionYears": [2018,2019,2020,2021,2022],
+  "values": {
+    "2018": 15000,
+    "2019": 16000,
+    "2020": 17000,
+    "2021": 18000,
+    "2022": 19000
+  }
+},
+"honda-jade-jpn-gen1": {
+  "displayName": "Honda Jade (Japan/China compact MPV)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019,2020],
+  "values": {
+    "2013": 7000,
+    "2014": 7500,
+    "2015": 8000,
+    "2016": 8500,
+    "2017": 9000,
+    "2018": 9500,
+    "2019": 10000,
+    "2020": 10500
+  }
+},
+"honda-l700-global-gen1": {
+  "displayName": "Honda L700 (Global microcar)",
+  "productionYears": [1965,1966],
+  "values": {
+    "1965": 3500,
+    "1966": 3700
+  }
+},
+"honda-l800-global-gen1": {
+  "displayName": "Honda L800 (Global microcar)",
+  "productionYears": [1966,1967],
+  "values": {
+    "1966": 3800,
+    "1967": 4000
+  }
+},
+"honda-lagreat-jpn-gen1": {
+  "displayName": "Honda LaGreat (Japan minivan, Odyssey-based)",
+  "productionYears": [1999,2000,2001,2002,2003,2004],
+  "values": {
+    "1999": 6000,
+    "2000": 6500,
+    "2001": 7000,
+    "2002": 7500,
+    "2003": 8000,
+    "2004": 8500
+  }
+},
+"honda-legend-global-gen1to5": {
+  "displayName": "Honda Legend (Global executive sedan)",
+  "productionYears": [1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021],
+  "values": {
+    "1985": 5000,
+    "1990": 6000,
+    "2000": 7500,
+    "2010": 9000,
+    "2020": 11000,
+    "2021": 11500
+  }
+},
+"honda-lifedunk-jpn-gen1": {
+  "displayName": "Honda Life Dunk (Japan kei car variant)",
+  "productionYears": [2000,2001,2002,2003,2004],
+  "values": {
+    "2000": 3500,
+    "2001": 3700,
+    "2002": 3900,
+    "2003": 4100,
+    "2004": 4300
+  }
+},
+"honda-life-jpn-gen1": {
+  "displayName": "Honda Life Gen 1 (Japan kei car)",
+  "productionYears": [1971,1972,1973,1974],
+  "values": {
+    "1971": 2500,
+    "1972": 2700,
+    "1973": 2900,
+    "1974": 3100
+  }
+},
+"honda-life-jpn-gen2to5": {
+  "displayName": "Honda Life Gen 2–5 (Japan kei car relaunch)",
+  "productionYears": [1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020],
+  "values": {
+    "1997": 3500,
+    "1998": 3600,
+    "1999": 3700,
+    "2000": 4000,
+    "2001": 4100,
+    "2002": 4200,
+    "2003": 4300,
+    "2004": 4400,
+    "2005": 4500,
+    "2006": 4600,
+    "2007": 4700,
+    "2008": 4800,
+    "2009": 4900,
+    "2010": 5000,
+    "2011": 5100,
+    "2012": 5200,
+    "2013": 5300,
+    "2014": 5400,
+    "2015": 5500,
+    "2016": 5600,
+    "2017": 5700,
+    "2018": 5800,
+    "2019": 5900,
+    "2020": 6000
+  }
+},
+"honda-logo-jpn-gen1": {
+  "displayName": "Honda Logo (Japan subcompact hatchback)",
+  "productionYears": [1996,1997,1998,1999,2000,2001],
+  "values": {
+    "1996": 4000,
+    "1997": 4200,
+    "1998": 4400,
+    "1999": 4600,
+    "2000": 4800,
+    "2001": 5000
+  }
+},
+"honda-mobiliospike-jpn-gen1": {
+  "displayName": "Honda Mobilio Spike (Japan compact MPV)",
+  "productionYears": [2002,2003,2004,2005,2006,2007,2008],
+  "values": {
+    "2002": 5000,
+    "2003": 5200,
+    "2004": 5400,
+    "2005": 5600,
+    "2006": 5800,
+    "2007": 6000,
+    "2008": 6200
+  }
+},
+"honda-mobilio-jpn-gen1": {
+  "displayName": "Honda Mobilio Gen 1 (Japan compact MPV)",
+  "productionYears": [2001,2002,2003,2004,2005,2006,2007,2008],
+  "values": {
+    "2001": 4800,
+    "2002": 5000,
+    "2003": 5200,
+    "2004": 5400,
+    "2005": 5600,
+    "2006": 5800,
+    "2007": 6000,
+    "2008": 6200
+  }
+},
+"honda-mobilio-jpn-gen2": {
+  "displayName": "Honda Mobilio Gen 2 (Japan compact MPV relaunch)",
+  "productionYears": [2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+  "values": {
+    "2014": 7000,
+    "2015": 7250,
+    "2016": 7500,
+    "2017": 7750,
+    "2018": 8000,
+    "2019": 8250,
+    "2020": 8500,
+    "2021": 8750,
+    "2022": 9000,
+    "2023": 9250,
+    "2024": 9500
+  }
+},
+"honda-n360-jpn-gen1": {
+  "displayName": "Honda N360 (Japan kei car)",
+  "productionYears": [1967,1968,1969,1970],
+  "values": {
+    "1967": 3000,
+    "1968": 3200,
+    "1969": 3400,
+    "1970": 3600
+  }
+},
+"honda-n600-global-gen1": {
+  "displayName": "Honda N600 (Export kei car, USA/Europe)",
+  "productionYears": [1969,1970,1971,1972],
+  "values": {
+    "1969": 3500,
+    "1970": 3700,
+    "1971": 3900,
+    "1972": 4100
+  }
+},
+"honda-nsx-global-gen1": {
+  "displayName": "Honda NSX Gen 1 (aka Acura NSX, global sports car)",
+  "productionYears": [1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005],
+  "values": {
+    "1990": 45000,
+    "1991": 46000,
+    "1992": 47000,
+    "1993": 48000,
+    "1994": 49000,
+    "1995": 50000,
+    "1996": 51000,
+    "1997": 52000,
+    "1998": 53000,
+    "1999": 54000,
+    "2000": 55000,
+    "2001": 56000,
+    "2002": 57000,
+    "2003": 58000,
+    "2004": 59000,
+    "2005": 60000
+  }
+},
+"honda-nsx-global-gen2": {
+  "displayName": "Honda NSX Gen 2 (aka Acura NSX, hybrid supercar)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2016": 90000,
+    "2017": 92500,
+    "2018": 95000,
+    "2019": 97500,
+    "2020": 100000,
+    "2021": 102500,
+    "2022": 105000
+  }
+},
+"honda-orthiapartner-jpn-gen1": {
+  "displayName": "Honda Orthia/Partner (Japan compact wagon/van)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002],
+  "values": {
+    "1996": 4500,
+    "1997": 4700,
+    "1998": 4900,
+    "1999": 5100,
+    "2000": 5300,
+    "2001": 5500,
+    "2002": 5700
+  }
+},
+"honda-p700-global-gen1": {
+  "displayName": "Honda P700 (Global microcar)",
+  "productionYears": [1965,1966],
+  "values": {
+    "1965": 3200,
+    "1966": 3400
+  }
+},
+"honda-p800-global-gen1": {
+  "displayName": "Honda P800 (Global microcar)",
+  "productionYears": [1966,1967],
+  "values": {
+    "1966": 3400,
+    "1967": 3600
+  }
+},
+"honda-quint-global-gen1": {
+  "displayName": "Honda Quint (Global compact hatchback, Civic-based)",
+  "productionYears": [1980,1981,1982,1983,1984,1985],
+  "values": {
+    "1980": 4000,
+    "1981": 4200,
+    "1982": 4400,
+    "1983": 4600,
+    "1984": 4800,
+    "1985": 5000
+  }
+},
+"honda-rafaga-jpn-gen1": {
+  "displayName": "Honda Rafaga (Japan mid-size sedan)",
+  "productionYears": [1993,1994,1995,1996,1997],
+  "values": {
+    "1993": 4500,
+    "1994": 4700,
+    "1995": 4900,
+    "1996": 5100,
+    "1997": 5300
+  }
+},
+"honda-s500-global-gen1": {
+  "displayName": "Honda S500 (Global roadster)",
+  "productionYears": [1963,1964],
+  "values": {
+    "1963": 15000,
+    "1964": 16000
+  }
+},
+"honda-s660-jpn-gen1": {
+  "displayName": "Honda S660 (Japan kei roadster)",
+  "productionYears": [2015,2016,2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2015": 12000,
+    "2016": 12500,
+    "2017": 13000,
+    "2018": 13500,
+    "2019": 14000,
+    "2020": 14500,
+    "2021": 15000,
+    "2022": 15500
+  }
+},
+"honda-s600-global-gen1": {
+  "displayName": "Honda S600 (Global roadster/coupe)",
+  "productionYears": [1964,1965,1966],
+  "values": {
+    "1964": 16000,
+    "1965": 17000,
+    "1966": 18000
+  }
+},
+"honda-s800-global-gen1": {
+  "displayName": "Honda S800 (Global roadster/coupe)",
+  "productionYears": [1966,1967,1968,1969,1970],
+  "values": {
+    "1966": 18000,
+    "1967": 19000,
+    "1968": 20000,
+    "1969": 21000,
+    "1970": 22000
+  }
+},
+"honda-s2000-global-gen1": {
+  "displayName": "Honda S2000 (Global roadster)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+  "values": {
+    "1999": 18000,
+    "2000": 19000,
+    "2001": 20000,
+    "2002": 21000,
+    "2003": 22000,
+    "2004": 23000,
+    "2005": 24000,
+    "2006": 25000,
+    "2007": 26000,
+    "2008": 27000,
+    "2009": 28000
+  }
+},
+"honda-shuttle-jpn-gen1": {
+  "displayName": "Honda Shuttle (Japan compact MPV/wagon)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2011": 7000,
+    "2012": 7250,
+    "2013": 7500,
+    "2014": 7750,
+    "2015": 8000,
+    "2016": 8250,
+    "2017": 8500,
+    "2018": 8750,
+    "2019": 9000,
+    "2020": 9250,
+    "2021": 9500,
+    "2022": 9750
+  }
+},
+"honda-smx-jpn-gen1": {
+  "displayName": "Honda S-MX (Japan compact MPV)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002],
+  "values": {
+    "1996": 5000,
+    "1997": 5200,
+    "1998": 5400,
+    "1999": 5600,
+    "2000": 5800,
+    "2001": 6000,
+    "2002": 6200
+  }
+},
+"honda-spirior-china-gen1": {
+  "displayName": "Honda Spirior (China mid-size sedan, Accord-based)",
+  "productionYears": [2009,2010,2011,2012,2013,2014,2015,2016,2017,2018],
+  "values": {
+    "2009": 7000,
+    "2010": 7500,
+    "2011": 8000,
+    "2012": 8500,
+    "2013": 9000,
+    "2014": 9500,
+    "2015": 10000,
+    "2016": 10500,
+    "2017": 11000,
+    "2018": 11500
+  }
+},
+"honda-stream-jpn-gen1": {
+  "displayName": "Honda Stream (Japan compact MPV)",
+  "productionYears": [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014],
+  "values": {
+    "2000": 6000,
+    "2001": 6200,
+    "2002": 6400,
+    "2003": 6600,
+    "2004": 6800,
+    "2005": 7000,
+    "2006": 7200,
+    "2007": 7400,
+    "2008": 7600,
+    "2009": 7800,
+    "2010": 8000,
+    "2011": 8200,
+    "2012": 8400,
+    "2013": 8600,
+    "2014": 8800
+  }
+},
+"honda-t360t500-jpn-gen1": {
+  "displayName": "Honda T360/T500 (Japan kei truck/van)",
+  "productionYears": [1963,1964,1965,1966,1967],
+  "values": {
+    "1963": 3500,
+    "1964": 3700,
+    "1965": 3900,
+    "1966": 4100,
+    "1967": 4300
+  }
+},
+"honda-thats-jpn-gen1": {
+  "displayName": "Honda That's (Japan kei hatchback)",
+  "productionYears": [2002,2003,2004,2005,2006,2007],
+  "values": {
+    "2002": 4000,
+    "2003": 4200,
+    "2004": 4400,
+    "2005": 4600,
+    "2006": 4800,
+    "2007": 5000
+  }
+},
+"honda-today-jpn-gen1": {
+  "displayName": "Honda Today (Japan kei hatchback)",
+  "productionYears": [1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997],
+  "values": {
+    "1985": 3000,
+    "1988": 3300,
+    "1992": 3700,
+    "1997": 4200
+  }
+},
+"honda-torneo-jpn-gen1": {
+  "displayName": "Honda Torneo (Japan mid-size sedan, Accord-based)",
+  "productionYears": [1997,1998,1999,2000,2001,2002],
+  "values": {
+    "1997": 5000,
+    "1998": 5200,
+    "1999": 5400,
+    "2000": 5600,
+    "2001": 5800,
+    "2002": 6000
+  }
+},
+"honda-tourmaster-jpn-gen1": {
+  "displayName": "Honda Tourmaster (Japan pickup, rebadged Isuzu Faster)",
+  "productionYears": [1996,1997,1998],
+  "values": {
+    "1996": 4500,
+    "1997": 4700,
+    "1998": 4900
+  }
+},
+"honda-vamos-jpn-gen1": {
+  "displayName": "Honda Vamos (Japan kei van, original)",
+  "productionYears": [1970,1971,1972,1973],
+  "values": {
+    "1970": 3200,
+    "1971": 3400,
+    "1972": 3600,
+    "1973": 3800
+  }
+},
+"honda-vamoshobio-jpn-gen2": {
+  "displayName": "Honda Vamos/Vamos Hobio (Japan kei van relaunch)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018],
+  "values": {
+    "1999": 4000,
+    "2002": 4500,
+    "2006": 5000,
+    "2010": 5500,
+    "2014": 6000,
+    "2018": 6500
+  }
+},
+"honda-z-jpn-gen1": {
+  "displayName": "Honda Z Gen 1 (Japan kei coupe)",
+  "productionYears": [1970,1971,1972,1973,1974],
+  "values": {
+    "1970": 3500,
+    "1971": 3700,
+    "1972": 3900,
+    "1973": 4100,
+    "1974": 4300
+  }
+},
+"honda-z-jpn-gen2": {
+  "displayName": "Honda Z Gen 2 (Japan kei SUV relaunch)",
+  "productionYears": [1998,1999,2000,2001,2002],
+  "values": {
+    "1998": 5000,
+    "1999": 5200,
+    "2000": 5400,
+    "2001": 5600,
+    "2002": 5800
+  }
+},
+"honda-zest-jpn-gen1": {
+  "displayName": "Honda Zest (Japan kei hatchback)",
+  "productionYears": [2006,2007,2008,2009,2010,2011,2012],
+  "values": {
+    "2006": 4500,
+    "2007": 4700,
+    "2008": 4900,
+    "2009": 5100,
+    "2010": 5300,
+    "2011": 5500,
+    "2012": 5700
+  }
+},
+"honda-prelude-global-gen1": {
+  "displayName": "Honda Prelude Gen 1 (Global sporty coupe)",
+  "productionYears": [1978,1979,1980,1981,1982],
+  "values": {
+    "1978": 4500,
+    "1979": 4700,
+    "1980": 4900,
+    "1981": 5100,
+    "1982": 5300
+  }
+},
+"honda-prelude-global-gen2": {
+  "displayName": "Honda Prelude Gen 2 (Global sporty coupe)",
+  "productionYears": [1983,1984,1985,1986,1987],
+  "values": {
+    "1983": 5500,
+    "1984": 5700,
+    "1985": 5900,
+    "1986": 6100,
+    "1987": 6300
+  }
+},
+"honda-prelude-global-gen3": {
+  "displayName": "Honda Prelude Gen 3 (Global sporty coupe)",
+  "productionYears": [1988,1989,1990,1991],
+  "values": {
+    "1988": 6500,
+    "1989": 6700,
+    "1990": 6900,
+    "1991": 7100
+  }
+},
+"honda-prelude-global-gen4": {
+  "displayName": "Honda Prelude Gen 4 (Global sporty coupe)",
+  "productionYears": [1992,1993,1994,1995,1996],
+  "values": {
+    "1992": 7500,
+    "1993": 7700,
+    "1994": 7900,
+    "1995": 8100,
+    "1996": 8300
+  }
+},
+"honda-prelude-global-gen5": {
+  "displayName": "Honda Prelude Gen 5 (Global sporty coupe)",
+  "productionYears": [1997,1998,1999,2000,2001],
+  "values": {
+    "1997": 8500,
+    "1998": 8700,
+    "1999": 8900,
+    "2000": 9100,
+    "2001": 9300
+  }
+},
+"honda-prelude-global-gen6": {
+  "displayName": "Honda Prelude Gen 6 (Global sporty coupe revival)",
+  "productionYears": [2023,2024,2025],
+  "values": {
+    "2023": 28000,
+    "2024": 30000,
+    "2025": 32000
+  }
+},
+"honda-civictyper-jpn-gen1": {
+  "displayName": "Honda Civic Type R Gen 1 (EK9, Japan hot hatch)",
+  "productionYears": [1997,1998,1999,2000],
+  "values": {
+    "1997": 15000,
+    "1998": 16000,
+    "1999": 17000,
+    "2000": 18000
+  }
+},
+"honda-civictyper-jpn-gen2": {
+  "displayName": "Honda Civic Type R Gen 2 (EP3, UK/Japan hot hatch)",
+  "productionYears": [2001,2002,2003,2004,2005],
+  "values": {
+    "2001": 12000,
+    "2002": 13000,
+    "2003": 14000,
+    "2004": 15000,
+    "2005": 16000
+  }
+},
+"honda-civictyper-jpn-gen3": {
+  "displayName": "Honda Civic Type R Gen 3 (FN2/FD2, Japan/Europe sedan & hatch)",
+  "productionYears": [2007,2008,2009,2010,2011],
+  "values": {
+    "2007": 14000,
+    "2008": 15000,
+    "2009": 16000,
+    "2010": 17000,
+    "2011": 18000
+  }
+},
+"honda-civictyper-global-gen4": {
+  "displayName": "Honda Civic Type R Gen 4 (FK2, global hot hatch)",
+  "productionYears": [2015,2016],
+  "values": {
+    "2015": 22000,
+    "2016": 24000
+  }
+},
+"honda-civictyper-global-gen5": {
+  "displayName": "Honda Civic Type R Gen 5 (FK8, global hot hatch)",
+  "productionYears": [2017,2018,2019,2020,2021],
+  "values": {
+    "2017": 28000,
+    "2018": 30000,
+    "2019": 32000,
+    "2020": 34000,
+    "2021": 36000
+  }
+},
+"honda-civictyper-global-gen6": {
+  "displayName": "Honda Civic Type R Gen 6 (FL5, global hot hatch)",
+  "productionYears": [2022],
+  "values": {
+    "2022": 42000
+  }
+},
+"honda-ridgeline-usa-gen1": {
+  "displayName": "Honda Ridgeline Gen 1 (USA mid-size pickup, unibody platform)",
+  "productionYears": [2005,2006,2007,2008,2009,2010,2011,2012,2013,2014],
+  "values": {
+    "2005": 7000,
+    "2006": 7500,
+    "2007": 8000,
+    "2008": 8500,
+    "2009": 9000,
+    "2010": 9500,
+    "2011": 10000,
+    "2012": 10500,
+    "2013": 11000,
+    "2014": 11500
+  }
+},
+"honda-ridgeline-usa-gen2": {
+  "displayName": "Honda Ridgeline Gen 2 (USA mid-size pickup, second-gen unibody platform)",
+  "productionYears": [2017,2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2017": 18000,
+    "2018": 19000,
+    "2019": 20000,
+    "2020": 21000,
+    "2021": 22000,
+    "2022": 23000,
+    "2023": 24000,
+    "2024": 25000,
+    "2025": 26000
+  }
+},
+"honda-nwgn-jpn-gen1": {
+  "displayName": "Honda N-WGN Gen 1 (Japan kei hatchback)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019],
+  "values": {
+    "2013": 6000,
+    "2014": 6200,
+    "2015": 6400,
+    "2016": 6600,
+    "2017": 6800,
+    "2018": 7000,
+    "2019": 7200
+  }
+},
+"honda-nvan-jpn-gen1": {
+  "displayName": "Honda N-Van Gen 1 (Japan kei commercial van)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2018": 8000,
+    "2019": 8500,
+    "2020": 9000,
+    "2021": 9500,
+    "2022": 10000,
+    "2023": 10500,
+    "2024": 11000,
+    "2025": 11500
+  }
+},
+"honda-none-jpn-gen1": {
+  "displayName": "Honda N-One Gen 1 (Japan kei hatchback)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019,2020],
+  "values": {
+    "2013": 6500,
+    "2014": 6700,
+    "2015": 6900,
+    "2016": 7100,
+    "2017": 7300,
+    "2018": 7500,
+    "2019": 7700,
+    "2020": 7900
+  }
+},
+"honda-none-jpn-gen2": {
+  "displayName": "Honda N-One Gen 2 (Japan kei hatchback, facelift/relaunch)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "values": {
+    "2021": 9000,
+    "2022": 9500,
+    "2023": 10000,
+    "2024": 10500,
+    "2025": 11000
+  }
+},
+"honda-nbox-jpn-gen1": {
+  "displayName": "Honda N-Box Gen 1 (Japan kei tall hatch/MPV)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017],
+  "values": {
+    "2011": 7000,
+    "2012": 7200,
+    "2013": 7400,
+    "2014": 7600,
+    "2015": 7800,
+    "2016": 8000,
+    "2017": 8200
+  }
+},
+"honda-nbox-jpn-gen2": {
+  "displayName": "Honda N-Box Gen 2 (Japan kei tall hatch/MPV, redesign)",
+  "productionYears": [2017,2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2017": 9000,
+    "2018": 9300,
+    "2019": 9600,
+    "2020": 9900,
+    "2021": 10200,
+    "2022": 10500,
+    "2023": 10800,
+    "2024": 11100,
+    "2025": 11400
+  }
+},
+"honda-wrv-global-gen1": {
+  "displayName": "Honda WR-V Gen 1 (Global subcompact crossover, Jazz/City-based)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2016": 10000,
+    "2017": 10500,
+    "2018": 11000,
+    "2019": 11500,
+    "2020": 12000,
+    "2021": 12500,
+    "2022": 13000
+  }
+},
+"honda-pilot-usa-gen1": {
+  "displayName": "Honda Pilot Gen 1 (USA mid-size SUV)",
+  "productionYears": [2003,2004,2005,2006,2007,2008],
+  "values": {
+    "2003": 3500,
+    "2004": 4000,
+    "2005": 4500,
+    "2006": 5000,
+    "2007": 5500,
+    "2008": 6000
+  }
+},
+"honda-pilot-usa-gen2": {
+  "displayName": "Honda Pilot Gen 2 (USA mid-size SUV, redesign)",
+  "productionYears": [2009,2010,2011,2012,2013,2014,2015],
+  "values": {
+    "2009": 6500,
+    "2010": 7000,
+    "2011": 7500,
+    "2012": 8000,
+    "2013": 8500,
+    "2014": 9000,
+    "2015": 9500
+  }
+},
+"honda-pilot-usa-gen3": {
+  "displayName": "Honda Pilot Gen 3 (USA mid-size SUV, redesign)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2016": 12000,
+    "2017": 13000,
+    "2018": 14000,
+    "2019": 15000,
+    "2020": 16000,
+    "2021": 17000,
+    "2022": 18000
+  }
+},
+"honda-pilot-usa-gen4": {
+  "displayName": "Honda Pilot Gen 4 (USA mid-size SUV, latest redesign)",
+  "productionYears": [2023,2024,2025],
+  "values": {
+    "2023": 28000,
+    "2024": 30000,
+    "2025": 32000
+  }
+},
+"honda-passport-usa-gen1": {
+  "displayName": "Honda Passport Gen 1 (USA mid-size SUV, rebadged Isuzu Rodeo)",
+  "productionYears": [1993,1994,1995,1996,1997],
+  "values": {
+    "1993": 3500,
+    "1994": 3700,
+    "1995": 3900,
+    "1996": 4100,
+    "1997": 4300
+  }
+},
+"honda-passport-usa-gen2": {
+  "displayName": "Honda Passport Gen 2 (USA mid-size SUV, rebadged Isuzu Rodeo facelift)",
+  "productionYears": [1998,1999,2000,2001,2002],
+  "values": {
+    "1998": 4500,
+    "1999": 4700,
+    "2000": 4900,
+    "2001": 5100,
+    "2002": 5300
+  }
+},
+"honda-passport-usa-gen3": {
+  "displayName": "Honda Passport Gen 3 (USA mid-size SUV, revival crossover)",
+  "productionYears": [2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2019": 22000,
+    "2020": 23000,
+    "2021": 24000,
+    "2022": 25000,
+    "2023": 26000,
+    "2024": 27000,
+    "2025": 28000
+  }
+},
+"honda-hrv-global-gen1": {
+  "displayName": "Honda HR-V Gen 1 (Global subcompact crossover, based on Logo platform)",
+  "productionYears": [1998,1999,2000,2001,2002,2003,2004,2005,2006],
+  "values": {
+    "1998": 4500,
+    "1999": 4700,
+    "2000": 4900,
+    "2001": 5100,
+    "2002": 5300,
+    "2003": 5500,
+    "2004": 5700,
+    "2005": 5900,
+    "2006": 6100
+  }
+},
+"honda-hrv-global-gen2": {
+  "displayName": "Honda HR-V Gen 2 (Global subcompact crossover, Jazz/Fit-based)",
+  "productionYears": [2015,2016,2017,2018,2019,2020,2021],
+  "values": {
+    "2015": 12000,
+    "2016": 13000,
+    "2017": 14000,
+    "2018": 15000,
+    "2019": 16000,
+    "2020": 17000,
+    "2021": 18000
+  }
+},
+"honda-hrv-global-gen3": {
+  "displayName": "Honda HR-V Gen 3 (Global subcompact crossover, latest redesign)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 20000,
+    "2023": 21000,
+    "2024": 22000,
+    "2025": 23000
+  }
+},
+"honda-crv-global-gen1": {
+  "displayName": "Honda CR-V Gen 1 (Global compact SUV)",
+  "productionYears": [1995,1996,1997,1998,1999,2000,2001],
+  "values": {
+    "1995": 4500,
+    "1996": 4700,
+    "1997": 4900,
+    "1998": 5100,
+    "1999": 5300,
+    "2000": 5500,
+    "2001": 5700
+  }
+},
+"honda-crv-global-gen2": {
+  "displayName": "Honda CR-V Gen 2 (Global compact SUV, redesign)",
+  "productionYears": [2002,2003,2004,2005,2006],
+  "values": {
+    "2002": 6000,
+    "2003": 6200,
+    "2004": 6400,
+    "2005": 6600,
+    "2006": 6800
+  }
+},
+"honda-crv-global-gen3": {
+  "displayName": "Honda CR-V Gen 3 (Global compact SUV, redesign)",
+  "productionYears": [2007,2008,2009,2010,2011],
+  "values": {
+    "2007": 7500,
+    "2008": 7700,
+    "2009": 7900,
+    "2010": 8100,
+    "2011": 8300
+  }
+},
+"honda-crv-global-gen4": {
+  "displayName": "Honda CR-V Gen 4 (Global compact SUV, redesign)",
+  "productionYears": [2012,2013,2014,2015,2016],
+  "values": {
+    "2012": 9500,
+    "2013": 10000,
+    "2014": 10500,
+    "2015": 11000,
+    "2016": 11500
+  }
+},
+"honda-crv-global-gen5": {
+  "displayName": "Honda CR-V Gen 5 (Global compact SUV, redesign)",
+  "productionYears": [2017,2018,2019,2020,2021],
+  "values": {
+    "2017": 15000,
+    "2018": 16000,
+    "2019": 17000,
+    "2020": 18000,
+    "2021": 19000
+  }
+},
+"honda-crv-global-gen6": {
+  "displayName": "Honda CR-V Gen 6 (Global compact SUV, latest redesign)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 25000,
+    "2023": 26000,
+    "2024": 27000,
+    "2025": 28000
+  }
+},
+"honda-brv-global-gen1": {
+  "displayName": "Honda BR-V Gen 1 (Global subcompact crossover SUV, 3-row seating)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022],
+  "values": {
+    "2016": 9500,
+    "2017": 10000,
+    "2018": 10500,
+    "2019": 11000,
+    "2020": 11500,
+    "2021": 12000,
+    "2022": 12500
+  }
+},
+"honda-brv-global-gen2": {
+  "displayName": "Honda BR-V Gen 2 (Global subcompact crossover SUV, redesign)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "values": {
+    "2021": 15000,
+    "2022": 16000,
+    "2023": 17000,
+    "2024": 18000,
+    "2025": 19000
+  }
+},
+"honda-stepwgn-jpn-gen1": {
+  "displayName": "Honda Stepwgn Gen 1 (Japan compact MPV)",
+  "productionYears": [1996,1997,1998,1999,2000,2001],
+  "values": {
+    "1996": 4500,
+    "1997": 4700,
+    "1998": 4900,
+    "1999": 5100,
+    "2000": 5300,
+    "2001": 5500
+  }
+},
+"honda-stepwgn-jpn-gen2": {
+  "displayName": "Honda Stepwgn Gen 2 (Japan compact MPV, redesign)",
+  "productionYears": [2001,2002,2003,2004,2005],
+  "values": {
+    "2001": 6000,
+    "2002": 6200,
+    "2003": 6400,
+    "2004": 6600,
+    "2005": 6800
+  }
+},
+"honda-stepwgn-jpn-gen3": {
+  "displayName": "Honda Stepwgn Gen 3 (Japan compact MPV, redesign)",
+  "productionYears": [2005,2006,2007,2008,2009],
+  "values": {
+    "2005": 7500,
+    "2006": 7700,
+    "2007": 7900,
+    "2008": 8100,
+    "2009": 8300
+  }
+},
+"honda-stepwgn-jpn-gen4": {
+  "displayName": "Honda Stepwgn Gen 4 (Japan compact MPV, redesign)",
+  "productionYears": [2009,2010,2011,2012,2013,2014,2015],
+  "values": {
+    "2009": 9000,
+    "2010": 9300,
+    "2011": 9600,
+    "2012": 9900,
+    "2013": 10200,
+    "2014": 10500,
+    "2015": 10800
+  }
+},
+"honda-stepwgn-jpn-gen5": {
+  "displayName": "Honda Stepwgn Gen 5 (Japan compact MPV, redesign)",
+  "productionYears": [2015,2016,2017,2018,2019,2020,2021],
+  "values": {
+    "2015": 12000,
+    "2016": 12500,
+    "2017": 13000,
+    "2018": 13500,
+    "2019": 14000,
+    "2020": 14500,
+    "2021": 15000
+  }
+},
+"honda-stepwgn-jpn-gen6": {
+  "displayName": "Honda Stepwgn Gen 6 (Japan compact MPV, latest redesign)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 18000,
+    "2023": 19000,
+    "2024": 20000,
+    "2025": 21000
+  }
+},
+"honda-odyssey-jpn-gen1": {
+  "displayName": "Honda Odyssey Gen 1 (Japan/Global minivan)",
+  "productionYears": [1994,1995,1996,1997,1998,1999],
+  "values": {
+    "1994": 4500,
+    "1995": 4700,
+    "1996": 4900,
+    "1997": 5100,
+    "1998": 5300,
+    "1999": 5500
+  }
+},
+"honda-odyssey-jpn-gen2": {
+  "displayName": "Honda Odyssey Gen 2 (Japan/Global minivan, redesign)",
+  "productionYears": [1999,2000,2001,2002,2003],
+  "values": {
+    "1999": 6000,
+    "2000": 6200,
+    "2001": 6400,
+    "2002": 6600,
+    "2003": 6800
+  }
+},
+"honda-odyssey-jpn-gen3": {
+  "displayName": "Honda Odyssey Gen 3 (Japan/Global minivan, redesign)",
+  "productionYears": [2003,2004,2005,2006,2007,2008],
+  "values": {
+    "2003": 7500,
+    "2004": 7700,
+    "2005": 7900,
+    "2006": 8100,
+    "2007": 8300,
+    "2008": 8500
+  }
+},
+"honda-odyssey-jpn-gen4": {
+  "displayName": "Honda Odyssey Gen 4 (Japan/Global minivan, redesign)",
+  "productionYears": [2008,2009,2010,2011,2012,2013],
+  "values": {
+    "2008": 9000,
+    "2009": 9300,
+    "2010": 9600,
+    "2011": 9900,
+    "2012": 10200,
+    "2013": 10500
+  }
+},
+"honda-odyssey-jpn-gen5": {
+  "displayName": "Honda Odyssey Gen 5 (Japan/Global minivan, redesign)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023],
+  "values": {
+    "2013": 12000,
+    "2015": 13000,
+    "2017": 14000,
+    "2019": 15000,
+    "2021": 16000,
+    "2023": 17000
+  }
+},
+"honda-odyssey-usa-gen1": {
+  "displayName": "Honda Odyssey Gen 1 (USA minivan, rebadged Japan model)",
+  "productionYears": [1995,1996,1997,1998],
+  "values": {
+    "1995": 5000,
+    "1996": 5200,
+    "1997": 5400,
+    "1998": 5600
+  }
+},
+"honda-odyssey-usa-gen2": {
+  "displayName": "Honda Odyssey Gen 2 (USA minivan, larger redesign)",
+  "productionYears": [1999,2000,2001,2002,2003,2004],
+  "values": {
+    "1999": 6500,
+    "2000": 6700,
+    "2001": 6900,
+    "2002": 7100,
+    "2003": 7300,
+    "2004": 7500
+  }
+},
+"honda-odyssey-usa-gen3": {
+  "displayName": "Honda Odyssey Gen 3 (USA minivan, redesign)",
+  "productionYears": [2005,2006,2007,2008,2009,2010],
+  "values": {
+    "2005": 8000,
+    "2006": 8500,
+    "2007": 9000,
+    "2008": 9500,
+    "2009": 10000,
+    "2010": 10500
+  }
+},
+"honda-odyssey-usa-gen4": {
+  "displayName": "Honda Odyssey Gen 4 (USA minivan, redesign)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017],
+  "values": {
+    "2011": 12000,
+    "2012": 12500,
+    "2013": 13000,
+    "2014": 13500,
+    "2015": 14000,
+    "2016": 14500,
+    "2017": 15000
+  }
+},
+"honda-odyssey-usa-gen5": {
+  "displayName": "Honda Odyssey Gen 5 (USA minivan, latest redesign)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2018": 20000,
+    "2019": 21000,
+    "2020": 22000,
+    "2021": 23000,
+    "2022": 24000,
+    "2023": 25000,
+    "2024": 26000,
+    "2025": 27000
+  }
+},
+"honda-freed-jpn-gen1": {
+  "displayName": "Honda Freed Gen 1 (Japan compact MPV)",
+  "productionYears": [2008,2009,2010,2011,2012,2013,2014,2015,2016],
+  "values": {
+    "2008": 6500,
+    "2009": 6700,
+    "2010": 6900,
+    "2011": 7100,
+    "2012": 7300,
+    "2013": 7500,
+    "2014": 7700,
+    "2015": 7900,
+    "2016": 8100
+  }
+},
+"honda-freed-jpn-gen2": {
+  "displayName": "Honda Freed Gen 2 (Japan compact MPV, redesign)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2016": 9500,
+    "2017": 10000,
+    "2018": 10500,
+    "2019": 11000,
+    "2020": 11500,
+    "2021": 12000,
+    "2022": 12500,
+    "2023": 13000,
+    "2024": 13500,
+    "2025": 14000
+  }
+},
+"honda-crider-china-gen1": {
+  "displayName": "Honda Crider Gen 1 (China compact sedan, Guangqi Honda)",
+  "productionYears": [2013,2014,2015,2016,2017,2018],
+  "values": {
+    "2013": 7000,
+    "2014": 7500,
+    "2015": 8000,
+    "2016": 8500,
+    "2017": 9000,
+    "2018": 9500
+  }
+},
+"honda-crider-china-gen2": {
+  "displayName": "Honda Crider Gen 2 (China compact sedan, Guangqi Honda, redesign)",
+  "productionYears": [2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2019": 11000,
+    "2020": 11500,
+    "2021": 12000,
+    "2022": 12500,
+    "2023": 13000,
+    "2024": 13500,
+    "2025": 14000
+  }
+},
+"honda-envix-china-gen1": {
+  "displayName": "Honda Envix Gen 1 (China compact sedan, Dongfeng Honda, twin of Crider Gen 2)",
+  "productionYears": [2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2019": 10500,
+    "2020": 11000,
+    "2021": 11500,
+    "2022": 12000,
+    "2023": 12500,
+    "2024": 13000,
+    "2025": 13500
+  }
+},
+"honda-civic-global-gen1": {
+  "displayName": "Honda Civic Gen 1 (Global compact car)",
+  "productionYears": [1972,1973,1974,1975,1976,1977,1978,1979],
+  "values": {
+    "1972": 4000,
+    "1975": 4500,
+    "1979": 5000
+  }
+},
+"honda-civic-global-gen2": {
+  "displayName": "Honda Civic Gen 2 (Global compact car, redesign)",
+  "productionYears": [1980,1981,1982,1983],
+  "values": {
+    "1980": 5200,
+    "1981": 5400,
+    "1982": 5600,
+    "1983": 5800
+  }
+},
+"honda-civic-global-gen3": {
+  "displayName": "Honda Civic Gen 3 (Global compact car, redesign)",
+  "productionYears": [1984,1985,1986,1987],
+  "values": {
+    "1984": 6000,
+    "1985": 6200,
+    "1986": 6400,
+    "1987": 6600
+  }
+},
+"honda-civic-global-gen4": {
+  "displayName": "Honda Civic Gen 4 (Global compact car, redesign)",
+  "productionYears": [1988,1989,1990,1991],
+  "values": {
+    "1988": 7000,
+    "1989": 7200,
+    "1990": 7400,
+    "1991": 7600
+  }
+},
+"honda-civic-global-gen5": {
+  "displayName": "Honda Civic Gen 5 (Global compact car, redesign)",
+  "productionYears": [1992,1993,1994,1995],
+  "values": {
+    "1992": 8000,
+    "1993": 8500,
+    "1994": 9000,
+    "1995": 9500
+  }
+},
+"honda-civic-global-gen6": {
+  "displayName": "Honda Civic Gen 6 (Global compact car, redesign)",
+  "productionYears": [1996,1997,1998,1999,2000],
+  "values": {
+    "1996": 10000,
+    "1997": 10500,
+    "1998": 11000,
+    "1999": 11500,
+    "2000": 12000
+  }
+},
+"honda-civic-global-gen7": {
+  "displayName": "Honda Civic Gen 7 (Global compact car, redesign)",
+  "productionYears": [2001,2002,2003,2004,2005],
+  "values": {
+    "2001": 12500,
+    "2002": 13000,
+    "2003": 13500,
+    "2004": 14000,
+    "2005": 14500
+  }
+},
+"honda-civic-global-gen8": {
+  "displayName": "Honda Civic Gen 8 (Global compact car, redesign)",
+  "productionYears": [2006,2007,2008,2009,2010,2011],
+  "values": {
+    "2006": 15000,
+    "2008": 16000,
+    "2010": 17000,
+    "2011": 18000
+  }
+},
+"honda-civic-global-gen9": {
+  "displayName": "Honda Civic Gen 9 (Global compact car, redesign)",
+  "productionYears": [2012,2013,2014,2015],
+  "values": {
+    "2012": 18500,
+    "2013": 19000,
+    "2014": 19500,
+    "2015": 20000
+  }
+},
+"honda-civic-global-gen10": {
+  "displayName": "Honda Civic Gen 10 (Global compact car, redesign)",
+  "productionYears": [2016,2017,2018,2019,2020,2021],
+  "values": {
+    "2016": 21000,
+    "2018": 22000,
+    "2020": 23000,
+    "2021": 24000
+  }
+},
+"honda-civic-global-gen11": {
+  "displayName": "Honda Civic Gen 11 (Global compact car, latest redesign)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 25000,
+    "2023": 26000,
+    "2024": 27000,
+    "2025": 28000
+  }
+},
+"honda-integra-jpn-gen1": {
+  "displayName": "Honda Integra Gen 1 (Japan sporty compact)",
+  "productionYears": [1985,1986,1987,1988,1989],
+  "values": {
+    "1985": 6000,
+    "1987": 6500,
+    "1989": 7000
+  }
+},
+"honda-integra-jpn-gen2": {
+  "displayName": "Honda Integra Gen 2 (Japan sporty compact, redesign)",
+  "productionYears": [1989,1990,1991,1992,1993],
+  "values": {
+    "1989": 7500,
+    "1991": 8000,
+    "1993": 8500
+  }
+},
+"honda-integra-jpn-gen3": {
+  "displayName": "Honda Integra Gen 3 (Japan sporty compact, redesign)",
+  "productionYears": [1993,1994,1995,1996,1997,1998,1999,2000,2001],
+  "values": {
+    "1993": 9000,
+    "1995": 10000,
+    "1998": 11000,
+    "2001": 12000
+  }
+},
+"honda-integra-jpn-gen4": {
+  "displayName": "Honda Integra Gen 4 (Japan sporty compact, redesign, DC5)",
+  "productionYears": [2001,2002,2003,2004,2005,2006],
+  "values": {
+    "2001": 13000,
+    "2003": 14000,
+    "2005": 15000,
+    "2006": 16000
+  }
+},
+"honda-integra-china-gen5": {
+  "displayName": "Honda Integra Gen 5 (China compact sedan, twin of Civic Gen 11)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 20000,
+    "2023": 21000,
+    "2024": 22000,
+    "2025": 23000
+  }
+},
+"honda-city-global-gen1": {
+  "displayName": "Honda City Gen 1 (Global subcompact sedan/hatchback)",
+  "productionYears": [1981,1982,1983,1984,1985,1986],
+  "values": {
+    "1981": 4000,
+    "1983": 4200,
+    "1985": 4400,
+    "1986": 4600
+  }
+},
+"honda-city-global-gen2": {
+  "displayName": "Honda City Gen 2 (Global subcompact sedan, redesign)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002],
+  "values": {
+    "1996": 5000,
+    "1998": 5200,
+    "2000": 5400,
+    "2002": 5600
+  }
+},
+"honda-city-global-gen3": {
+  "displayName": "Honda City Gen 3 (Global subcompact sedan, redesign)",
+  "productionYears": [2002,2003,2004,2005,2006,2007,2008],
+  "values": {
+    "2002": 6000,
+    "2004": 6500,
+    "2006": 7000,
+    "2008": 7500
+  }
+},
+"honda-city-global-gen4": {
+  "displayName": "Honda City Gen 4 (Global subcompact sedan, redesign)",
+  "productionYears": [2008,2009,2010,2011,2012,2013],
+  "values": {
+    "2008": 8000,
+    "2010": 8500,
+    "2012": 9000,
+    "2013": 9500
+  }
+},
+"honda-city-global-gen5": {
+  "displayName": "Honda City Gen 5 (Global subcompact sedan, redesign)",
+  "productionYears": [2014,2015,2016,2017,2018,2019],
+  "values": {
+    "2014": 10000,
+    "2016": 11000,
+    "2018": 12000,
+    "2019": 13000
+  }
+},
+"honda-city-global-gen6": {
+  "displayName": "Honda City Gen 6 (Global subcompact sedan, redesign)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2020": 14000,
+    "2021": 15000,
+    "2022": 16000,
+    "2023": 17000,
+    "2024": 18000,
+    "2025": 19000
+  }
+},
+"honda-ballade-sa-gen1": {
+  "displayName": "Honda Ballade Gen 1 (South Africa/Japan Civic-based sedan)",
+  "productionYears": [1980,1981,1982,1983,1984],
+  "values": {
+    "1980": 4200,
+    "1982": 4400,
+    "1984": 4600
+  }
+},
+"honda-ballade-sa-gen2": {
+  "displayName": "Honda Ballade Gen 2 (South Africa Civic-based sedan, redesign)",
+  "productionYears": [1985,1986,1987,1988],
+  "values": {
+    "1985": 4800,
+    "1986": 5000,
+    "1988": 5200
+  }
+},
+"honda-ballade-sa-gen3": {
+  "displayName": "Honda Ballade Gen 3 (South Africa Civic-based sedan, redesign)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017,2018,2019,2020],
+  "values": {
+    "2011": 7000,
+    "2013": 7500,
+    "2015": 8000,
+    "2017": 8500,
+    "2019": 9000,
+    "2020": 9500
+  }
+},
+"honda-ballade-sa-gen4": {
+  "displayName": "Honda Ballade Gen 4 (South Africa Civic-based sedan, latest redesign)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "values": {
+    "2021": 10000,
+    "2022": 11000,
+    "2023": 12000,
+    "2024": 13000,
+    "2025": 14000
+  }
+},
+"honda-amaze-india-gen1": {
+  "displayName": "Honda Amaze Gen 1 (India subcompact sedan, Brio-based)",
+  "productionYears": [2013,2014,2015,2016,2017],
+  "values": {
+    "2013": 6500,
+    "2014": 7000,
+    "2015": 7500,
+    "2016": 8000,
+    "2017": 8500
+  }
+},
+"honda-amaze-india-gen2": {
+  "displayName": "Honda Amaze Gen 2 (India subcompact sedan, redesign)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "values": {
+    "2018": 9500,
+    "2019": 10000,
+    "2020": 10500,
+    "2021": 11000,
+    "2022": 11500,
+    "2023": 12000,
+    "2024": 12500,
+    "2025": 13000
+  }
+},
+"honda-accord-global-gen1": {
+  "displayName": "Honda Accord Gen 1 (Global mid-size sedan)",
+  "productionYears": [1976,1977,1978,1979,1980],
+  "values": {
+    "1976": 4200,
+    "1978": 4400,
+    "1980": 4600
+  }
+},
+"honda-accord-global-gen2": {
+  "displayName": "Honda Accord Gen 2 (Global mid-size sedan, redesign)",
+  "productionYears": [1981,1982,1983,1984,1985],
+  "values": {
+    "1981": 5000,
+    "1983": 5200,
+    "1985": 5400
+  }
+},
+"honda-accord-global-gen3": {
+  "displayName": "Honda Accord Gen 3 (Global mid-size sedan, redesign)",
+  "productionYears": [1986,1987,1988,1989],
+  "values": {
+    "1986": 6000,
+    "1987": 6200,
+    "1989": 6400
+  }
+},
+"honda-accord-global-gen4": {
+  "displayName": "Honda Accord Gen 4 (Global mid-size sedan, redesign)",
+  "productionYears": [1990,1991,1992,1993],
+  "values": {
+    "1990": 7000,
+    "1991": 7300,
+    "1993": 7600
+  }
+},
+"honda-accord-global-gen5": {
+  "displayName": "Honda Accord Gen 5 (Global mid-size sedan, redesign)",
+  "productionYears": [1994,1995,1996,1997],
+  "values": {
+    "1994": 8000,
+    "1995": 8500,
+    "1997": 9000
+  }
+},
+"honda-accord-global-gen6": {
+  "displayName": "Honda Accord Gen 6 (Global mid-size sedan, redesign)",
+  "productionYears": [1998,1999,2000,2001,2002],
+  "values": {
+    "1998": 9500,
+    "2000": 10000,
+    "2002": 10500
+  }
+},
+"honda-accord-global-gen7": {
+  "displayName": "Honda Accord Gen 7 (Global mid-size sedan, redesign)",
+  "productionYears": [2003,2004,2005,2006,2007],
+  "values": {
+    "2003": 11000,
+    "2005": 12000,
+    "2007": 13000
+  }
+},
+"honda-accord-global-gen8": {
+  "displayName": "Honda Accord Gen 8 (Global mid-size sedan, redesign)",
+  "productionYears": [2008,2009,2010,2011,2012],
+  "values": {
+    "2008": 14000,
+    "2010": 15000,
+    "2012": 16000
+  }
+},
+"honda-accord-global-gen9": {
+  "displayName": "Honda Accord Gen 9 (Global mid-size sedan, redesign)",
+  "productionYears": [2013,2014,2015,2016,2017],
+  "values": {
+    "2013": 17000,
+    "2015": 18000,
+    "2017": 19000
+  }
+},
+"honda-accord-global-gen10": {
+  "displayName": "Honda Accord Gen 10 (Global mid-size sedan, redesign)",
+  "productionYears": [2018,2019,2020,2021],
+  "values": {
+    "2018": 20000,
+    "2019": 21000,
+    "2020": 22000,
+    "2021": 23000
+  }
+},
+"honda-accord-global-gen11": {
+  "displayName": "Honda Accord Gen 11 (Global mid-size sedan, latest redesign)",
+  "productionYears": [2022,2023,2024,2025],
+  "values": {
+    "2022": 24000,
+    "2023": 25000,
+    "2024": 26000,
+    "2025": 27000
+  }
+},
+"honda-inspire-jpn-gen1": {
+  "displayName": "Honda Inspire Gen 1 (Japan premium sedan, Accord derivative)",
+  "productionYears": [1990,1991,1992,1993,1994,1995],
+  "values": {
+    "1990": 7500,
+    "1992": 8000,
+    "1995": 8500
+  }
+},
+"honda-inspire-jpn-gen2": {
+  "displayName": "Honda Inspire Gen 2 (Japan premium sedan, redesign)",
+  "productionYears": [1995,1996,1997,1998],
+  "values": {
+    "1995": 9000,
+    "1997": 9500,
+    "1998": 10000
+  }
+},
+"honda-inspire-jpn-gen3": {
+  "displayName": "Honda Inspire Gen 3 (Japan premium sedan, redesign)",
+  "productionYears": [1998,1999,2000,2001,2002],
+  "values": {
+    "1998": 10500,
+    "2000": 11000,
+    "2002": 11500
+  }
+},
+"honda-inspire-jpn-gen4": {
+  "displayName": "Honda Inspire Gen 4 (Japan premium sedan, redesign)",
+  "productionYears": [2003,2004,2005,2006,2007],
+  "values": {
+    "2003": 12000,
+    "2005": 13000,
+    "2007": 14000
+  }
+},
+"honda-inspire-jpn-gen5": {
+  "displayName": "Honda Inspire Gen 5 (Japan premium sedan, redesign, Accord twin)",
+  "productionYears": [2008,2009,2010,2011,2012],
+  "values": {
+    "2008": 15000,
+    "2010": 16000,
+    "2012": 17000
+  }
+},
+"honda-inspire-jpn-gen6": {
+  "displayName": "Honda Inspire Gen 6 (Japan premium sedan, latest redesign)",
+  "productionYears": [2018,2019,2020,2021,2022],
+  "values": {
+    "2018": 18000,
+    "2019": 19000,
+    "2020": 20000,
+    "2021": 21000,
+    "2022": 22000
+  }
+}
+    },
+    "Hyundai":{
+     "hyundai-20m-kor-gen1": {
+  "displayName": "Hyundai 20M (Korea sedan, predecessor to Granada)",
+  "productionYears": [1969,1970,1971,1972,1973],
+  "successor": "Hyundai Granada",
+  "values": {
+    "1969": 3500,
+    "1970": 3600,
+    "1971": 3700,
+    "1972": 3850,
+    "1973": 4000
+  }
+},
+"hyundai-granada-kor-gen1": {
+  "displayName": "Hyundai Granada (Korea sedan, successor to 20M)",
+  "productionYears": [1975,1976,1977,1978,1979,1980],
+  "values": {
+    "1975": 4200,
+    "1976": 4300,
+    "1977": 4400,
+    "1978": 4500,
+    "1979": 4550,
+    "1980": 4600
+  }
+},
+"hyundai-aslan-kor-gen1": {
+  "displayName": "Hyundai Aslan (Korea premium sedan, successor to Dynasty)",
+  "productionYears": [2014,2015,2016,2017],
+    "values": {
+    "2014": 15000,
+    "2015": 16000,
+    "2016": 17000,
+    "2017": 18000
+  }
+},
+"hyundai-atos-santro-global-gen1": {
+  "displayName": "Hyundai Atos/Santro (Global city car, predecessor to i10)",
+  "productionYears": [1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014],
+  "successor": "Hyundai i10",
+  "values": {
+    "1997": 3500,
+    "1998": 3600,
+    "1999": 3700,
+    "2000": 4000,
+    "2001": 4100,
+    "2002": 4200,
+    "2003": 4300,
+    "2004": 4400,
+    "2005": 4500,
+    "2006": 4600,
+    "2007": 4700,
+    "2008": 4800,
+    "2009": 4900,
+    "2010": 5000,
+    "2011": 5100,
+    "2012": 5200,
+    "2013": 5350,
+    "2014": 5500
+  }
+},
+"hyundai-eon-india-gen1": {
+  "displayName": "Hyundai Eon (India city car, successor to Santro AH2)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017,2018,2019],
+  "successor": "Hyundai Santro (AH2)",
+  "values": {
+    "2011": 4000,
+    "2012": 4100,
+    "2013": 4300,
+    "2014": 4500,
+    "2015": 4600,
+    "2016": 4800,
+    "2017": 5000,
+    "2018": 5200,
+    "2019": 5500
+  }
+},
+"hyundai-celesta-china-gen1": {
+  "displayName": "Hyundai Celesta (China compact sedan)",
+  "productionYears": [2017,2018,2019,2020,2021,2022,2023],
+  "values": {
+    "2017": 9000,
+    "2018": 9200,
+    "2019": 9500,
+    "2020": 9700,
+    "2021": 10000,
+    "2022": 10200,
+    "2023": 10500
+  }
+},
+"hyundai-cortina-kor-gen1": {
+  "displayName": "Hyundai Cortina (Korea sedan, predecessor to Stellar)",
+  "productionYears": [1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983],
+  "successor": "Hyundai Stellar",
+  "values": {
+    "1968": 3200,
+    "1969": 3250,
+    "1970": 3300,
+    "1971": 3350,
+    "1972": 3400,
+    "1973": 3450,
+    "1974": 3480,
+    "1975": 3500,
+    "1976": 3550,
+    "1977": 3600,
+    "1978": 3650,
+    "1979": 3700,
+    "1980": 3800,
+    "1981": 3850,
+    "1982": 3900,
+    "1983": 4000
+  }
+},
+"hyundai-dynasty-kor-gen1": {
+  "displayName": "Hyundai Dynasty (Korea premium sedan, predecessor to Aslan)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002,2003,2004,2005],
+  "successor": "Hyundai Aslan",
+  "values": {
+    "1996": 7000,
+    "1997": 7300,
+    "1998": 7600,
+    "1999": 7800,
+    "2000": 8000,
+    "2001": 8200,
+    "2002": 8400,
+    "2003": 8600,
+    "2004": 8800,
+    "2005": 9000
+  }
+},
+"hyundai-entourage-usa-gen1": {
+  "displayName": "Hyundai Entourage (USA minivan, Kia Sedona twin)",
+  "productionYears": [2007,2008,2009],
+  "values": {
+    "2007": 6000,
+    "2008": 6500,
+    "2009": 7000
+  }
+},
+"hyundai-equus-centennial-kor-gen1": {
+  "displayName": "Hyundai Equus/Centennial (Korea flagship sedan, predecessor to Genesis G90)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016],
+  "values": {
+    "1999": 10000,
+    "2000": 10500,
+    "2001": 11000,
+    "2002": 11500,
+    "2003": 11800,
+    "2004": 11900,
+    "2005": 12000,
+    "2006": 12500,
+    "2007": 13000,
+    "2008": 13200,
+    "2009": 13500,
+    "2010": 14000,
+    "2011": 14500,
+    "2012": 15000,
+    "2013": 15200,
+    "2014": 15500,
+    "2015": 15800,
+    "2016": 16000
+  }
+},
+"hyundai-excel-presto-global-gen1": {
+  "displayName": "Hyundai Excel/Presto (Global compact sedan, predecessor to Accent)",
+  "productionYears": [1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000],
+    "values": {
+    "1985": 4500,
+    "1986": 4600,
+    "1987": 4700,
+    "1988": 4800,
+    "1989": 4900,
+    "1990": 5000,
+    "1991": 5100,
+    "1992": 5200,
+    "1993": 5300,
+    "1994": 5400,
+    "1995": 5500,
+    "1996": 5600,
+    "1997": 5700,
+    "1998": 5800,
+    "1999": 5900,
+    "2000": 6000
+  }
+},
+"hyundai-encino-china-gen1": {
+  "displayName": "Hyundai Encino (China subcompact crossover, Kona twin)",
+  "productionYears": [2018,2019,2020],
+  "values": {
+    "2018": 10000,
+    "2019": 10500,
+    "2020": 11000
+  }
+},
+"hyundai-granada-kor-gen2": {
+  "displayName": "Hyundai Granada (Korea sedan, successor to 20M, predecessor to Grandeur)",
+  "productionYears": [1978,1979,1980,1981,1982,1983,1984,1985],
+  "successor": "Hyundai Grandeur",
+  "values": {
+    "1978": 4200,
+    "1979": 4300,
+    "1980": 4400,
+    "1981": 4500,
+    "1982": 4550,
+    "1983": 4600,
+    "1984": 4650,
+    "1985": 4700
+  }
+},
+"hyundai-galloper-kor-gen1": {
+  "displayName": "Hyundai Galloper (Korea SUV, Mitsubishi Pajero-based, predecessor to Terracan)",
+  "productionYears": [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004],
+  "successor": "Hyundai Terracan",
+  "values": {
+    "1991": 7000,
+    "1992": 7200,
+    "1993": 7500,
+    "1994": 7700,
+    "1995": 8000,
+    "1996": 8250,
+    "1997": 8500,
+    "1998": 8750,
+    "1999": 9000,
+    "2000": 9250,
+    "2001": 9500,
+    "2002": 9750,
+    "2003": 10000,
+    "2004": 10500
+  }
+},
+"hyundai-grace-h100-satellite-kor-gen1": {
+  "displayName": "Hyundai Grace/H100/Satellite (Korea van, predecessor to Starex)",
+  "productionYears": [1987,1988,1989,1990,1991,1992,1993,1994,1995,1996],
+  "successor": "Hyundai Starex",
+  "values": {
+    "1987": 5000,
+    "1988": 5100,
+    "1989": 5200,
+    "1990": 5300,
+    "1991": 5400,
+    "1992": 5500,
+    "1993": 5600,
+    "1994": 5700,
+    "1995": 5800,
+    "1996": 6000
+  }
+},
+"hyundai-getz-click-global-gen1": {
+  "displayName": "Hyundai Getz/Click (Global hatchback, predecessor to i20)",
+  "productionYears": [2002,2003,2004,2005,2006,2007,2008,2009,2010,2011],
+  "successor": "Hyundai i20",
+  "values": {
+    "2002": 6000,
+    "2003": 6200,
+    "2004": 6500,
+    "2005": 6700,
+    "2006": 7000,
+    "2007": 7200,
+    "2008": 7500,
+    "2009": 7700,
+    "2010": 8000,
+    "2011": 8500
+  }
+},
+"hyundai-accent-wit-global-trim": {
+  "displayName": "Hyundai Accent WIT (Global Accent variant/trim)",
+  "productionYears": [2000,2001,2002,2003],
+  "successor": null,
+  "values": {
+    "2000": 6500,
+    "2001": 6700,
+    "2002": 6900,
+    "2003": 7100
+  }
+},
+"hyundai-ioniq-global-gen1": {
+  "displayName": "Hyundai Ioniq (Global hybrid/EV, predecessor to Elantra Hybrid)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022],
+  "successor": "Hyundai Elantra Hybrid",
+  "values": {
+    "2016": 15000,
+    "2017": 16000,
+    "2018": 17000,
+    "2019": 18000,
+    "2020": 19000,
+    "2021": 20000,
+    "2022": 21000
+  }
+},
+"hyundai-i20-active-global-gen1": {
+  "displayName": "Hyundai i20 Active (Global crossover hatchback, predecessor to Bayon)",
+  "productionYears": [2015,2016,2017,2018,2019,2020],
+  "successor": "Hyundai Bayon",
+  "values": {
+    "2015": 10000,
+    "2016": 10500,
+    "2017": 11000,
+    "2018": 11500,
+    "2019": 12000,
+    "2020": 12500
+  }
+},
+"hyundai-i40-global-gen1": {
+  "displayName": "Hyundai i40 (Global mid-size sedan/wagon)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017,2018,2019],
+  "successor": null,
+  "values": {
+    "2011": 12000,
+    "2012": 12500,
+    "2013": 13000,
+    "2014": 13500,
+    "2015": 14000,
+    "2016": 14500,
+    "2017": 15000,
+    "2018": 15500,
+    "2019": 16000
+  }
+},
+"hyundai-ix20-global-gen1": {
+  "displayName": "Hyundai ix20 (Global MPV/hatchback, successor to Lavita/Matrix)",
+  "productionYears": [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019],
+  "successor": null,
+  "values": {
+    "2010": 9000,
+    "2011": 9500,
+    "2012": 10000,
+    "2013": 10500,
+    "2014": 11000,
+    "2015": 11500,
+    "2016": 12000,
+    "2017": 12500,
+    "2018": 13000,
+    "2019": 13500
+  }
+},
+"hyundai-ix25-china-gen1": {
+  "displayName": "Hyundai ix25 (China subcompact SUV, predecessor to Creta)",
+  "productionYears": [2014,2015,2016,2017,2018,2019,2020,2021],
+  "successor": "Hyundai Creta",
+  "values": {
+    "2014": 10000,
+    "2015": 10500,
+    "2016": 11000,
+    "2017": 11500,
+    "2018": 12000,
+    "2019": 12500,
+    "2020": 13000,
+    "2021": 13500
+  }
+},
+"hyundai-ix35-nu-global-gen2": {
+  "displayName": "Hyundai ix35 (NU, Global SUV, successor to Tucson, predecessor to Mufasa)",
+  "productionYears": [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023],
+  "successor": "Hyundai Mufasa",
+  "values": {
+    "2010": 12000,
+    "2011": 12500,
+    "2012": 13000,
+    "2013": 13500,
+    "2014": 14000,
+    "2015": 14500,
+    "2016": 15000,
+    "2017": 15500,
+    "2018": 16000,
+    "2019": 16500,
+    "2020": 17000,
+    "2021": 17500,
+    "2022": 18000,
+    "2023": 18500
+  }
+},
+"hyundai-ix35-fcev-global-gen1": {
+  "displayName": "Hyundai ix35 FCEV (Global fuel cell SUV, predecessor to Nexo)",
+  "productionYears": [2013,2014,2015,2016,2017,2018],
+  "successor": "Hyundai Nexo",
+  "values": {
+    "2013": 15000,
+    "2014": 16000,
+    "2015": 17000,
+    "2016": 18000,
+    "2017": 19000,
+    "2018": 20000
+  }
+},
+"hyundai-lavita-matrix-global-gen1": {
+  "displayName": "Hyundai Lavita/Matrix (Global MPV, predecessor to ix20)",
+  "productionYears": [2001,2002,2003,2004,2005,2006,2007,2008,2009,2010],
+  "successor": "Hyundai ix20",
+  "values": {
+    "2001": 7000,
+    "2002": 7250,
+    "2003": 7500,
+    "2004": 7750,
+    "2005": 8000,
+    "2006": 8250,
+    "2007": 8500,
+    "2008": 8750,
+    "2009": 9000,
+    "2010": 9500
+  }
+},
+"hyundai-libero-h1-kor-gen1": {
+  "displayName": "Hyundai Libero/H-1 (Korea light truck/van, predecessor to Porter)",
+  "productionYears": [2000,2001,2002,2003,2004,2005,2006,2007],
+  "successor": "Hyundai Porter",
+  "values": {
+    "2000": 6000,
+    "2001": 6250,
+    "2002": 6500,
+    "2003": 6750,
+    "2004": 7000,
+    "2005": 7250,
+    "2006": 7500,
+    "2007": 8000
+  }
+},
+"hyundai-lafesta-china-gen1": {
+  "displayName": "Hyundai Lafesta (China sporty sedan)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2018": 12000,
+    "2019": 12500,
+    "2020": 13000,
+    "2021": 13500,
+    "2022": 14000,
+    "2023": 14500,
+    "2024": 15000,
+    "2025": 15500
+  }
+},
+"hyundai-marcia-kor-gen1": {
+  "displayName": "Hyundai Marcia (Korea sedan, predecessor to Sonata)",
+  "productionYears": [1995,1996,1997,1998],
+  "successor": "Hyundai Sonata",
+  "values": {
+    "1995": 7000,
+    "1996": 7300,
+    "1997": 7600,
+    "1998": 8000
+  }
+},
+"hyundai-maxcruz-santafe-xl-global-gen1": {
+  "displayName": "Hyundai Maxcruz/Santa Fe XL (Global SUV, predecessor to Palisade)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019],
+  "successor": "Hyundai Palisade",
+  "values": {
+    "2013": 15000,
+    "2014": 16000,
+    "2015": 17000,
+    "2016": 18000,
+    "2017": 19000,
+    "2018": 20000,
+    "2019": 21000
+  }
+},
+"hyundai-mistra-china-gen1": {
+  "displayName": "Hyundai Mistra (China mid-size sedan)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023],
+  "successor": null,
+  "values": {
+    "2013": 10000,
+    "2014": 10500,
+    "2015": 11000,
+    "2016": 11500,
+    "2017": 12000,
+    "2018": 12500,
+    "2019": 13000,
+    "2020": 13500,
+    "2021": 14000,
+    "2022": 14500,
+    "2023": 15000
+  }
+},
+"hyundai-pony-kor-gen1": {
+  "displayName": "Hyundai Pony (Korea compact car, first mass-production Hyundai)",
+  "productionYears": [1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990],
+  "successor": "Hyundai Excel",
+  "values": {
+    "1975": 3000,
+    "1977": 3200,
+    "1979": 3400,
+    "1981": 3600,
+    "1983": 3800,
+    "1985": 4000,
+    "1987": 4200,
+    "1989": 4400,
+    "1990": 4600
+  }
+},
+"hyundai-reina-verna-china-gen1": {
+  "displayName": "Hyundai Reina/Verna (China/India compact sedan)",
+  "productionYears": [2017,2018,2019,2020,2021],
+  "successor": null,
+  "values": {
+    "2017": 9000,
+    "2018": 9500,
+    "2019": 10000,
+    "2020": 10500,
+    "2021": 11000
+  }
+},
+"hyundai-santamo-kor-gen1": {
+  "displayName": "Hyundai Santamo (Korea MPV, predecessor to Trajet)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002,2003],
+  "successor": "Hyundai Trajet",
+  "values": {
+    "1996": 7000,
+    "1997": 7300,
+    "1998": 7600,
+    "1999": 7900,
+    "2000": 8200,
+    "2001": 8500,
+    "2002": 8800,
+    "2003": 9000
+  }
+},
+"hyundai-santro-ah2-india-gen2": {
+  "displayName": "Hyundai Santro (AH2, India city car, successor to Eon, predecessor to Grand i10 NIOS)",
+  "productionYears": [2018,2019,2020,2021,2022],
+  "successor": "Hyundai Grand i10 NIOS",
+  "values": {
+    "2018": 6000,
+    "2019": 6500,
+    "2020": 7000,
+    "2021": 7500,
+    "2022": 8000
+  }
+},
+"hyundai-scoupe-kor-gen1": {
+  "displayName": "Hyundai Scoupe (Korea sporty coupe, predecessor to Tiburon)",
+  "productionYears": [1988,1989,1990,1991,1992,1993,1994,1995],
+  "successor": "Hyundai Tiburon",
+  "values": {
+    "1988": 5000,
+    "1989": 5250,
+    "1990": 5500,
+    "1991": 5750,
+    "1992": 6000,
+    "1993": 6250,
+    "1994": 6500,
+    "1995": 7000
+  }
+},
+"hyundai-starex-kor-gen1": {
+  "displayName": "Hyundai Starex (Korea van/MPV, predecessor to Staria)",
+  "productionYears": [1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021],
+  "successor": "Hyundai Staria",
+  "values": {
+    "1997": 7000,
+    "1998": 7200,
+    "1999": 7400,
+    "2000": 7500,
+    "2001": 7600,
+    "2002": 7700,
+    "2003": 7800,
+    "2004": 7900,
+    "2005": 8000,
+    "2006": 8100,
+    "2007": 8200,
+    "2008": 8300,
+    "2009": 8400,
+    "2010": 8500,
+    "2011": 8600,
+    "2012": 8700,
+    "2013": 8800,
+    "2014": 8900,
+    "2015": 9000,
+    "2016": 9100,
+    "2017": 9200,
+    "2018": 9300,
+    "2019": 9400,
+    "2020": 9500,
+    "2021": 10000
+  }
+},
+"hyundai-stellar-kor-gen1": {
+  "displayName": "Hyundai Stellar (Korea sedan, successor to Cortina, predecessor to Sonata)",
+  "productionYears": [1983,1984,1985,1986,1987,1988,1989,1990,1991,1992],
+  "successor": "Hyundai Sonata",
+  "values": {
+    "1983": 4500,
+    "1984": 4650,
+    "1985": 4800,
+    "1986": 4950,
+    "1987": 5100,
+    "1988": 5250,
+    "1989": 5400,
+    "1990": 5550,
+    "1991": 5700,
+    "1992": 6000
+  }
+},
+"hyundai-elantra-global": {
+  "displayName": "Hyundai Elantra (Global compact sedan, multiple generations)",
+  "productionYears": [1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "1990": 6000,
+    "1991": 6200,
+    "1992": 6400,
+    "1993": 6600,
+    "1994": 6800,
+    "1995": 7000,
+    "1996": 7200,
+    "1997": 7400,
+    "1998": 7600,
+    "1999": 7800,
+    "2000": 8000,
+    "2001": 8300,
+    "2002": 8600,
+    "2003": 8900,
+    "2004": 9200,
+    "2005": 9500,
+    "2006": 9800,
+    "2007": 10100,
+    "2008": 10400,
+    "2009": 10800,
+    "2010": 12000,
+    "2011": 12400,
+    "2012": 12800,
+    "2013": 13200,
+    "2014": 13600,
+    "2015": 14000,
+    "2016": 14400,
+    "2017": 14800,
+    "2018": 15200,
+    "2019": 15600,
+    "2020": 16000,
+    "2021": 16500,
+    "2022": 17000,
+    "2023": 17500,
+    "2024": 17800,
+    "2025": 18000
+  }
+},
+"hyundai-terracan-kor-gen1": {
+  "displayName": "Hyundai Terracan (Korea SUV, successor to Galloper, predecessor to Veracruz)",
+  "productionYears": [2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011],
+  "successor": "Hyundai Veracruz",
+  "values": {
+    "2001": 9500,
+    "2002": 9750,
+    "2003": 10000,
+    "2004": 10500,
+    "2005": 11000,
+    "2006": 11500,
+    "2007": 12000,
+    "2008": 12500,
+    "2009": 13000,
+    "2010": 13500,
+    "2011": 14000
+  }
+},
+"hyundai-tiburon-coupe-tuscani-global-gen1": {
+  "displayName": "Hyundai Tiburon/Coupe/Tuscani (Global sporty coupe, successor to Scoupe, predecessor to Veloster)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008],
+  "successor": "Hyundai Veloster",
+  "values": {
+    "1996": 7000,
+    "1997": 7250,
+    "1998": 7500,
+    "1999": 7750,
+    "2000": 8000,
+    "2001": 8200,
+    "2002": 8350,
+    "2003": 8500,
+    "2004": 8700,
+    "2005": 8900,
+    "2006": 9000,
+    "2007": 9250,
+    "2008": 9500
+  }
+},
+"hyundai-trajet-kor-gen1": {
+  "displayName": "Hyundai Trajet (Korea MPV, successor to Santamo)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008],
+  "successor": null,
+  "values": {
+    "1999": 8500,
+    "2000": 8750,
+    "2001": 9000,
+    "2002": 9250,
+    "2003": 9500,
+    "2004": 9750,
+    "2005": 10000,
+    "2006": 10250,
+    "2007": 10500,
+    "2008": 11000
+  }
+},
+"hyundai-veloster-global-gen1": {
+  "displayName": "Hyundai Veloster (Global sporty hatchback, successor to Tiburon)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022],
+  "successor": null,
+  "values": {
+    "2011": 12000,
+    "2012": 12500,
+    "2013": 13000,
+    "2014": 13500,
+    "2015": 14000,
+    "2016": 14500,
+    "2017": 15000,
+    "2018": 15500,
+    "2019": 16000,
+    "2020": 16500,
+    "2021": 17000,
+    "2022": 18000
+  }
+},
+"hyundai-veracruz-ix55-global-gen1": {
+  "displayName": "Hyundai Veracruz/ix55 (Global SUV, successor to Terracan, predecessor to Maxcruz/Santa Fe XL)",
+  "productionYears": [2006,2007,2008,2009,2010,2011,2012],
+  "successor": "Hyundai Maxcruz/Santa Fe XL",
+  "values": {
+    "2006": 14000,
+    "2007": 15000,
+    "2008": 16000,
+    "2009": 17000,
+    "2010": 18000,
+    "2011": 19000,
+    "2012": 20000
+  }
+},
+"hyundai-xcent-india-gen1": {
+  "displayName": "Hyundai Xcent (India compact sedan, derivative of Grand i10)",
+  "productionYears": [2014,2015,2016,2017,2018,2019,2020],
+  "successor": null,
+  "values": {
+    "2014": 7000,
+    "2015": 7500,
+    "2016": 8000,
+    "2017": 8500,
+    "2018": 9000,
+    "2019": 9500,
+    "2020": 10000
+  }
+},
+"hyundai-stargazer-global-gen1": {
+  "displayName": "Hyundai Stargazer (Global MPV, positioned below Staria)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 12000,
+    "2022": 12500,
+    "2023": 13000,
+    "2024": 13500,
+    "2025": 14000
+  }
+},
+"hyundai-stargazer-cartenz-indonesia-gen1": {
+  "displayName": "Hyundai Stargazer Cartenz (Indonesia special edition MPV)",
+  "productionYears": [2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2023": 13500,
+    "2024": 14000,
+    "2025": 14500
+  }
+},
+"hyundai-staria-global-gen1": {
+  "displayName": "Hyundai Staria (Global MPV, successor to Starex)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 22000,
+    "2022": 23000,
+    "2023": 24000,
+    "2024": 25000,
+    "2025": 26000
+  }
+},
+"hyundai-custo-china-gen1": {
+  "displayName": "Hyundai Custo (China MPV, mid-size family van)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 20000,
+    "2022": 21000,
+    "2023": 22000,
+    "2024": 23000,
+    "2025": 24000
+  }
+},
+"hyundai-custin-china-gen1": {
+  "displayName": "Hyundai Custin (China MPV, sibling to Custo)",
+  "productionYears": [2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2022": 20500,
+    "2023": 21500,
+    "2024": 22500,
+    "2025": 23500
+  }
+},
+"hyundai-santacruz-global-gen1": {
+  "displayName": "Hyundai Santa Cruz (Global compact pickup, Tucson-based)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 25000,
+    "2022": 26000,
+    "2023": 27000,
+    "2024": 28000,
+    "2025": 29000
+  }
+},
+"hyundai-venue-global-gen1": {
+  "displayName": "Hyundai Venue (Global subcompact SUV, positioned below Kona/Creta)",
+  "productionYears": [2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2019": 16000,
+    "2020": 16500,
+    "2021": 17000,
+    "2022": 17500,
+    "2023": 18000,
+    "2024": 18500,
+    "2025": 19000
+  }
+},
+"hyundai-tucson-global-gen1": {
+  "displayName": "Hyundai Tucson Gen1 (Global compact SUV, predecessor to ix35 in some markets)",
+  "productionYears": [2004,2005,2006,2007,2008,2009],
+  "successor": "Hyundai Tucson Gen2",
+  "values": {
+    "2004": 12000,
+    "2005": 12500,
+    "2006": 13000,
+    "2007": 13500,
+    "2008": 14000,
+    "2009": 14500
+  }
+},
+"hyundai-tucson-global-gen2": {
+  "displayName": "Hyundai Tucson Gen2 (Global compact SUV, also sold as ix35 in some regions)",
+  "productionYears": [2010,2011,2012,2013,2014,2015],
+  "successor": "Hyundai Tucson Gen3",
+  "values": {
+    "2010": 15000,
+    "2011": 15500,
+    "2012": 16000,
+    "2013": 16500,
+    "2014": 17000,
+    "2015": 17500
+  }
+},
+"hyundai-tucson-global-gen3": {
+  "displayName": "Hyundai Tucson Gen3 (Global compact SUV, design evolution, predecessor to Gen4)",
+  "productionYears": [2016,2017,2018,2019,2020],
+  "successor": "Hyundai Tucson Gen4",
+  "values": {
+    "2016": 18000,
+    "2017": 18500,
+    "2018": 19000,
+    "2019": 19500,
+    "2020": 20000
+  }
+},
+"hyundai-tucson-global-gen4": {
+  "displayName": "Hyundai Tucson Gen4 (Global compact SUV, current generation)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 21000,
+    "2022": 22000,
+    "2023": 23000,
+    "2024": 24000,
+    "2025": 25000
+  }
+},
+"hyundai-santafe-global-gen1": {
+  "displayName": "Hyundai Santa Fe Gen1 (Global mid-size SUV, Hyundai’s first SUV)",
+  "productionYears": [2000,2001,2002,2003,2004,2005,2006],
+  "successor": "Hyundai Santa Fe Gen2",
+  "values": {
+    "2000": 15000,
+    "2001": 15500,
+    "2002": 16000,
+    "2003": 16500,
+    "2004": 17000,
+    "2005": 17500,
+    "2006": 18000
+  }
+},
+"hyundai-santafe-global-gen2": {
+  "displayName": "Hyundai Santa Fe Gen2 (Global mid-size SUV, larger and more refined)",
+  "productionYears": [2007,2008,2009,2010,2011,2012],
+  "successor": "Hyundai Santa Fe Gen3",
+  "values": {
+    "2007": 18500,
+    "2008": 19000,
+    "2009": 19500,
+    "2010": 20000,
+    "2011": 20500,
+    "2012": 21000
+  }
+},
+"hyundai-santafe-global-gen3": {
+  "displayName": "Hyundai Santa Fe Gen3 (Global mid-size SUV, split into Sport and XL/Maxcruz)",
+  "productionYears": [2013,2014,2015,2016,2017,2018],
+  "successor": "Hyundai Santa Fe Gen4",
+  "values": {
+    "2013": 21500,
+    "2014": 22000,
+    "2015": 22500,
+    "2016": 23000,
+    "2017": 23500,
+    "2018": 24000
+  }
+},
+"hyundai-santafe-global-gen4": {
+  "displayName": "Hyundai Santa Fe Gen4 (Global mid-size SUV, design overhaul)",
+  "productionYears": [2019,2020,2021],
+  "successor": "Hyundai Santa Fe Gen5",
+  "values": {
+    "2019": 24500,
+    "2020": 25000,
+    "2021": 26000
+  }
+},
+"hyundai-santafe-global-gen5": {
+  "displayName": "Hyundai Santa Fe Gen5 (Global mid-size SUV, current generation)",
+  "productionYears": [2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2022": 27000,
+    "2023": 28000,
+    "2024": 29000,
+    "2025": 30000
+  }
+},
+"hyundai-palisade-global-gen1": {
+  "displayName": "Hyundai Palisade Gen1 (Global full-size SUV, successor to Maxcruz/Santa Fe XL)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2018": 32000,
+    "2019": 33000,
+    "2020": 34000,
+    "2021": 35000,
+    "2022": 36000,
+    "2023": 37000,
+    "2024": 38000,
+    "2025": 39000
+  }
+},
+"hyundai-nexo-global-gen1": {
+  "displayName": "Hyundai Nexo (Global hydrogen fuel cell SUV, successor to ix35 Fuel Cell)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2018": 55000,
+    "2019": 56000,
+    "2020": 57000,
+    "2021": 58000,
+    "2022": 59000,
+    "2023": 60000,
+    "2024": 61000,
+    "2025": 62000
+  }
+},
+"hyundai-mufasa-china-gen1": {
+  "displayName": "Hyundai Mufasa (China compact SUV, Beijing Hyundai exclusive)",
+  "productionYears": [2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2023": 21000,
+    "2024": 22000,
+    "2025": 23000
+  }
+},
+"hyundai-kona-kauai-global-gen1": {
+  "displayName": "Hyundai Kona/Kauai Gen1 (Global subcompact SUV, Portugal branding as Kauai)",
+  "productionYears": [2017,2018,2019,2020,2021,2022],
+  "successor": "Hyundai Kona/Kauai Gen2",
+  "values": {
+    "2017": 18000,
+    "2018": 18500,
+    "2019": 19000,
+    "2020": 19500,
+    "2021": 20000,
+    "2022": 21000
+  }
+},
+"hyundai-kona-kauai-global-gen2": {
+  "displayName": "Hyundai Kona/Kauai Gen2 (Global subcompact SUV, redesigned second generation)",
+  "productionYears": [2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2023": 22000,
+    "2024": 23000,
+    "2025": 24000
+  }
+},
+"hyundai-exter-india-gen1": {
+  "displayName": "Hyundai Exter Gen1 (India micro-SUV, positioned below Venue/Creta)",
+  "productionYears": [2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2023": 12000,
+    "2024": 12500,
+    "2025": 13000
+  }
+},
+"hyundai-casper-kor-gen1": {
+  "displayName": "Hyundai Casper Gen1 (Korea micro-SUV, entry-level urban crossover)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 13500,
+    "2022": 14000,
+    "2023": 14500,
+    "2024": 15000,
+    "2025": 15500
+  }
+},
+"hyundai-bayon-europe-gen1": {
+  "displayName": "Hyundai Bayon Gen1 (Europe subcompact SUV, i20-based, positioned below Kona)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 17500,
+    "2022": 18000,
+    "2023": 18500,
+    "2024": 19000,
+    "2025": 19500
+  }
+},
+"hyundai-i30-global-gen1": {
+  "displayName": "Hyundai i30 Gen1 (Global compact hatchback, successor to Hyundai Elantra hatch)",
+  "productionYears": [2007,2008,2009,2010,2011],
+  "successor": "Hyundai i30 Gen2",
+  "values": {
+    "2007": 14000,
+    "2008": 14500,
+    "2009": 15000,
+    "2010": 15500,
+    "2011": 16000
+  }
+},
+"hyundai-i30-global-gen2": {
+  "displayName": "Hyundai i30 Gen2 (Global compact hatchback, design evolution, also sold as Elantra Touring in NA)",
+  "productionYears": [2012,2013,2014,2015,2016],
+  "successor": "Hyundai i30 Gen3",
+  "values": {
+    "2012": 16500,
+    "2013": 17000,
+    "2014": 17500,
+    "2015": 18000,
+    "2016": 18500
+  }
+},
+"hyundai-i30-global-gen3": {
+  "displayName": "Hyundai i30 Gen3 (Global compact hatchback, refinement and tech upgrades)",
+  "productionYears": [2017,2018,2019,2020],
+  "successor": "Hyundai i30 Gen4",
+  "values": {
+    "2017": 19000,
+    "2018": 19500,
+    "2019": 20000,
+    "2020": 20500
+  }
+},
+"hyundai-i30-global-gen4": {
+  "displayName": "Hyundai i30 Gen4 (Global compact hatchback, current generation, includes i30 N performance variant)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2021": 21000,
+    "2022": 22000,
+    "2023": 23000,
+    "2024": 24000,
+    "2025": 25000
+  }
+},
+"hyundai-sonata-global-gen1": {
+  "displayName": "Hyundai Sonata Gen1 (Mid-size sedan, first generation)",
+  "productionYears": [1985,1986,1987,1988],
+  "successor": "Hyundai Sonata Gen2",
+  "values": {
+    "1985": 8000,
+    "1986": 8500,
+    "1987": 9000,
+    "1988": 9500
+  }
+},
+"hyundai-sonata-global-gen2": {
+  "displayName": "Hyundai Sonata Gen2 (Mid-size sedan, Mitsubishi platform)",
+  "productionYears": [1989,1990,1991],
+  "successor": "Hyundai Sonata Gen3",
+  "values": {
+    "1989": 10000,
+    "1990": 10500,
+    "1991": 11000
+  }
+},
+"hyundai-sonata-global-gen3": {
+  "displayName": "Hyundai Sonata Gen3 (Mid-size sedan, in-house platform)",
+  "productionYears": [1992,1993,1994,1995,1996],
+  "successor": "Hyundai Sonata Gen4",
+  "values": {
+    "1992": 11500,
+    "1993": 12000,
+    "1994": 12500,
+    "1995": 13000,
+    "1996": 13500
+  }
+},
+"hyundai-sonata-global-gen4": {
+  "displayName": "Hyundai Sonata Gen4 (Mid-size sedan, design modernization)",
+  "productionYears": [1997,1998,1999,2000,2001],
+  "successor": "Hyundai Sonata Gen5",
+  "values": {
+    "1997": 14000,
+    "1998": 14500,
+    "1999": 15000,
+    "2000": 15500,
+    "2001": 16000
+  }
+},
+"hyundai-sonata-global-gen5": {
+  "displayName": "Hyundai Sonata Gen5 (Mid-size sedan, NF platform)",
+  "productionYears": [2002,2003,2004,2005,2006,2007,2008],
+  "successor": "Hyundai Sonata Gen6",
+  "values": {
+    "2002": 16500,
+    "2003": 17000,
+    "2004": 17500,
+    "2005": 18000,
+    "2006": 18500,
+    "2007": 19000,
+    "2008": 19500
+  }
+},
+"hyundai-sonata-global-gen6": {
+  "displayName": "Hyundai Sonata Gen6 (Mid-size sedan, YF platform)",
+  "productionYears": [2009,2010,2011,2012,2013,2014],
+  "successor": "Hyundai Sonata Gen7",
+  "values": {
+    "2009": 20000,
+    "2010": 20500,
+    "2011": 21000,
+    "2012": 21500,
+    "2013": 22000,
+    "2014": 22500
+  }
+},
+"hyundai-sonata-global-gen7": {
+  "displayName": "Hyundai Sonata Gen7 (Mid-size sedan, LF platform)",
+  "productionYears": [2015,2016,2017,2018,2019],
+  "successor": "Hyundai Sonata Gen8",
+  "values": {
+    "2015": 23000,
+    "2016": 23500,
+    "2017": 24000,
+    "2018": 24500,
+    "2019": 25000
+  }
+},
+"hyundai-sonata-global-gen8": {
+  "displayName": "Hyundai Sonata Gen8 (Mid-size sedan, DN8 platform, current generation)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2020": 26000,
+    "2021": 27000,
+    "2022": 28000,
+    "2023": 29000,
+    "2024": 30000,
+    "2025": 31000
+  }
+},
+"hyundai-hb20s-brazil-gen1": {
+  "displayName": "Hyundai HB20S Gen1 (Brazil subcompact sedan, sedan derivative of HB20 hatchback)",
+  "productionYears": [2013,2014,2015,2016,2017,2018,2019],
+  "successor": "Hyundai HB20S Gen2",
+  "values": {
+    "2013": 13500,
+    "2014": 14000,
+    "2015": 14500,
+    "2016": 15000,
+    "2017": 15500,
+    "2018": 16000,
+    "2019": 16500
+  }
+},
+"hyundai-hb20s-brazil-gen2": {
+  "displayName": "Hyundai HB20S Gen2 (Brazil subcompact sedan, facelift and redesign)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2020": 17000,
+    "2021": 17500,
+    "2022": 18000,
+    "2023": 18500,
+    "2024": 19000,
+    "2025": 19500
+  }
+},
+"hyundai-grandeur-azera-gen1": {
+  "displayName": "Hyundai Grandeur/Azera Gen1 (Korea flagship sedan, Mitsubishi Debonair-based)",
+  "productionYears": [1986,1987,1988,1989],
+  "successor": "Hyundai Grandeur/Azera Gen2",
+  "values": {
+    "1986": 9500,
+    "1987": 10000,
+    "1988": 10500,
+    "1989": 11000
+  }
+},
+"hyundai-grandeur-azera-gen2": {
+  "displayName": "Hyundai Grandeur/Azera Gen2 (Korea flagship sedan, Mitsubishi platform, export expansion)",
+  "productionYears": [1990,1991,1992],
+  "successor": "Hyundai Grandeur/Azera Gen3",
+  "values": {
+    "1990": 11500,
+    "1991": 12000,
+    "1992": 12500
+  }
+},
+"hyundai-grandeur-azera-gen3": {
+  "displayName": "Hyundai Grandeur/Azera Gen3 (Hyundai in-house platform, larger body, premium positioning)",
+  "productionYears": [1993,1994,1995,1996,1997,1998],
+  "successor": "Hyundai Grandeur/Azera Gen4",
+  "values": {
+    "1993": 13000,
+    "1994": 13500,
+    "1995": 14000,
+    "1996": 14500,
+    "1997": 15000,
+    "1998": 15500
+  }
+},
+"hyundai-grandeur-azera-gen4": {
+  "displayName": "Hyundai Grandeur/Azera Gen4 (Premium sedan, design modernization, export as Azera)",
+  "productionYears": [1999,2000,2001,2002,2003,2004,2005],
+  "successor": "Hyundai Grandeur/Azera Gen5",
+  "values": {
+    "1999": 16000,
+    "2000": 16500,
+    "2001": 17000,
+    "2002": 17500,
+    "2003": 18000,
+    "2004": 18500,
+    "2005": 19000
+  }
+},
+"hyundai-grandeur-azera-gen5": {
+  "displayName": "Hyundai Grandeur/Azera Gen5 (Premium sedan, NF platform, global flagship)",
+  "productionYears": [2006,2007,2008,2009,2010],
+  "successor": "Hyundai Grandeur/Azera Gen6",
+  "values": {
+    "2006": 20000,
+    "2007": 20500,
+    "2008": 21000,
+    "2009": 21500,
+    "2010": 22000
+  }
+},
+"hyundai-grandeur-azera-gen6": {
+  "displayName": "Hyundai Grandeur/Azera Gen6 (Premium sedan, YF platform, export as Azera in NA/ME)",
+  "productionYears": [2011,2012,2013,2014,2015,2016],
+  "successor": "Hyundai Grandeur/Azera Gen7",
+  "values": {
+    "2011": 23000,
+    "2012": 23500,
+    "2013": 24000,
+    "2014": 24500,
+    "2015": 25000,
+    "2016": 25500
+  }
+},
+"hyundai-grandeur-azera-gen7": {
+  "displayName": "Hyundai Grandeur/Azera Gen7 (Premium sedan, DN8 platform, Azera discontinued in NA after 2017)",
+  "productionYears": [2017,2018,2019,2020,2021],
+  "successor": "Hyundai Grandeur/Azera Gen8",
+  "values": {
+    "2017": 26000,
+    "2018": 27000,
+    "2019": 28000,
+    "2020": 29000,
+    "2021": 30000
+  }
+},
+"hyundai-grandeur-azera-gen8": {
+  "displayName": "Hyundai Grandeur/Azera Gen8 (Premium sedan, current generation, Korea flagship only)",
+  "productionYears": [2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2022": 31000,
+    "2023": 32000,
+    "2024": 33000,
+    "2025": 34000
+  }
+},
+"hyundai-accent-verna-gen1": {
+  "displayName": "Hyundai Accent/Verna Gen1 (Global subcompact sedan/hatch, successor to Excel)",
+  "productionYears": [1994,1995,1996,1997,1998,1999],
+  "successor": "Hyundai Accent/Verna Gen2",
+  "values": {
+    "1994": 8500,
+    "1995": 9000,
+    "1996": 9500,
+    "1997": 10000,
+    "1998": 10500,
+    "1999": 11000
+  }
+},
+"hyundai-accent-verna-gen2": {
+  "displayName": "Hyundai Accent/Verna Gen2 (Global subcompact sedan/hatch, redesign, India branding as Verna)",
+  "productionYears": [2000,2001,2002,2003,2004,2005],
+  "successor": "Hyundai Accent/Verna Gen3",
+  "values": {
+    "2000": 11500,
+    "2001": 12000,
+    "2002": 12500,
+    "2003": 13000,
+    "2004": 13500,
+    "2005": 14000
+  }
+},
+"hyundai-accent-verna-gen3": {
+  "displayName": "Hyundai Accent/Verna Gen3 (Global subcompact sedan/hatch, larger body, export expansion)",
+  "productionYears": [2006,2007,2008,2009,2010],
+  "successor": "Hyundai Accent/Verna Gen4",
+  "values": {
+    "2006": 14500,
+    "2007": 15000,
+    "2008": 15500,
+    "2009": 16000,
+    "2010": 16500
+  }
+},
+"hyundai-accent-verna-gen4": {
+  "displayName": "Hyundai Accent/Verna Gen4 (Global subcompact sedan/hatch, Fluidic design, India Verna popular)",
+  "productionYears": [2011,2012,2013,2014,2015,2016,2017],
+  "successor": "Hyundai Accent/Verna Gen5",
+  "values": {
+    "2011": 17000,
+    "2012": 17500,
+    "2013": 18000,
+    "2014": 18500,
+    "2015": 19000,
+    "2016": 19500,
+    "2017": 20000
+  }
+},
+"hyundai-accent-verna-gen5": {
+  "displayName": "Hyundai Accent/Verna Gen5 (Global subcompact sedan/hatch, current generation, India Verna continues)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2018": 20500,
+    "2019": 21000,
+    "2020": 21500,
+    "2021": 22000,
+    "2022": 22500,
+    "2023": 23000,
+    "2024": 23500,
+    "2025": 24000
+  }
+},
+"hyundai-i20-global-gen1": {
+  "displayName": "Hyundai i20 Gen1 (Global supermini, successor to Getz in Europe/India)",
+  "productionYears": [2008,2009,2010,2011,2012,2013,2014],
+  "successor": "Hyundai i20 Gen2",
+  "values": {
+    "2008": 12000,
+    "2009": 12500,
+    "2010": 13000,
+    "2011": 13500,
+    "2012": 14000,
+    "2013": 14500,
+    "2014": 15000
+  }
+},
+"hyundai-i20-global-gen2": {
+  "displayName": "Hyundai i20 Gen2 (Global supermini, Fluidic design, India/Europe markets)",
+  "productionYears": [2015,2016,2017,2018,2019],
+  "successor": "Hyundai i20 Gen3",
+  "values": {
+    "2015": 15500,
+    "2016": 16000,
+    "2017": 16500,
+    "2018": 17000,
+    "2019": 17500
+  }
+},
+"hyundai-i20-global-gen3": {
+  "displayName": "Hyundai i20 Gen3 (Global supermini, design overhaul, tech upgrades)",
+  "productionYears": [2020,2021,2022],
+  "successor": "Hyundai i20 Gen4",
+  "values": {
+    "2020": 18000,
+    "2021": 18500,
+    "2022": 19000
+  }
+},
+"hyundai-i20-global-gen4": {
+  "displayName": "Hyundai i20 Gen4 (Global supermini, current generation, includes sporty i20 N variant)",
+  "productionYears": [2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2023": 19500,
+    "2024": 20000,
+    "2025": 20500
+  }
+},
+"hyundai-i10-global-gen1": {
+  "displayName": "Hyundai i10 Gen1 (Global city car, successor to Atos/Amica)",
+  "productionYears": [2007,2008,2009,2010,2011,2012,2013],
+  "successor": "Hyundai i10 Gen2",
+  "values": {
+    "2007": 9500,
+    "2008": 10000,
+    "2009": 10500,
+    "2010": 11000,
+    "2011": 11500,
+    "2012": 12000,
+    "2013": 12500
+  }
+},
+"hyundai-i10-global-gen2": {
+  "displayName": "Hyundai i10 Gen2 (Global city car, Fluidic design, India production hub)",
+  "productionYears": [2014,2015,2016,2017,2018,2019],
+  "successor": "Hyundai i10 Gen3",
+  "values": {
+    "2014": 13000,
+    "2015": 13500,
+    "2016": 14000,
+    "2017": 14500,
+    "2018": 15000,
+    "2019": 15500
+  }
+},
+"hyundai-i10-global-gen3": {
+  "displayName": "Hyundai i10 Gen3 (Global city car, design overhaul, includes Grand i10 Nios in India)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2020": 16000,
+    "2021": 16500,
+    "2022": 17000,
+    "2023": 17500,
+    "2024": 18000,
+    "2025": 18500
+  }
+},
+"hyundai-hb20-brazil-gen1": {
+  "displayName": "Hyundai HB20 Gen1 (Brazil subcompact hatchback, exclusive to Brazilian market)",
+  "productionYears": [2012,2013,2014,2015,2016,2017,2018,2019],
+  "successor": "Hyundai HB20 Gen2",
+  "values": {
+    "2012": 13000,
+    "2013": 13500,
+    "2014": 14000,
+    "2015": 14500,
+    "2016": 15000,
+    "2017": 15500,
+    "2018": 16000,
+    "2019": 16500
+  }
+},
+"hyundai-hb20-brazil-gen2": {
+  "displayName": "Hyundai HB20 Gen2 (Brazil subcompact hatchback, redesign with sharper styling)",
+  "productionYears": [2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "values": {
+    "2020": 17000,
+    "2021": 17500,
+    "2022": 18000,
+    "2023": 18500,
+    "2024": 19000,
+    "2025": 19500
+  }
+}
+    },
+    "Infiniti":{
+      "infiniti-j30-global-gen1": {
+  "displayName": "Infiniti J30 (Global mid-size luxury sedan, based on Nissan Leopard J Ferie)",
+  "productionYears": [1992,1993,1994,1995,1996,1997],
+  "successor": "Infiniti I30",
+  "valuesUSD": {
+    "1992": 33000,
+    "1993": 33500,
+    "1994": 34000,
+    "1995": 34500,
+    "1996": 35000,
+    "1997": 35500
+  }
+},
+"infiniti-i30-gen1": {
+  "displayName": "Infiniti I30 Gen1 (Luxury mid-size sedan, Maxima-based, successor to J30)",
+  "productionYears": [1996,1997,1998,1999],
+  "successor": "Infiniti I30 Gen2",
+  "valuesUSD": {
+    "1996": 31000,
+    "1997": 31500,
+    "1998": 32000,
+    "1999": 32500
+  }
+},
+"infiniti-i30-gen2": {
+  "displayName": "Infiniti I30 Gen2 (Luxury mid-size sedan, redesigned, Maxima A33-based)",
+  "productionYears": [2000,2001],
+  "successor": "Infiniti I35",
+  "valuesUSD": {
+    "2000": 33000,
+    "2001": 33500
+  }
+},
+"infiniti-i35-gen1": {
+  "displayName": "Infiniti I35 (Luxury mid-size sedan, facelifted I30, Maxima A33-based)",
+  "productionYears": [2002,2003,2004],
+  "successor": null,
+  "valuesUSD": {
+    "2002": 34000,
+    "2003": 34500,
+    "2004": 35000
+  }
+},
+"infiniti-qx4-gen1": {
+  "displayName": "Infiniti QX4 Gen1 (Luxury mid-size SUV, based on Nissan Pathfinder R50)",
+  "productionYears": [1996,1997,1998,1999,2000,2001,2002,2003],
+  "successor": "Infiniti QX56",
+  "valuesUSD": {
+    "1996": 37000,
+    "1997": 37500,
+    "1998": 38000,
+    "1999": 38500,
+    "2000": 39000,
+    "2001": 39500,
+    "2002": 40000,
+    "2003": 40500
+  }
+},
+"infiniti-q45-gen1": {
+  "displayName": "Infiniti Q45 Gen1 (Flagship luxury sedan, Nissan President-based)",
+  "productionYears": [1989,1990,1991,1992,1993,1994,1995,1996],
+  "successor": "Infiniti Q45 Gen2",
+  "valuesUSD": {
+    "1989": 38000,
+    "1990": 39000,
+    "1991": 40000,
+    "1992": 41000,
+    "1993": 42000,
+    "1994": 43000,
+    "1995": 44000,
+    "1996": 45000
+  }
+},
+"infiniti-q45-gen2": {
+  "displayName": "Infiniti Q45 Gen2 (Flagship luxury sedan, toned-down styling, VH41DE V8)",
+  "productionYears": [1997,1998,1999,2000,2001],
+  "successor": "Infiniti Q45 Gen3",
+  "valuesUSD": {
+    "1997": 46000,
+    "1998": 47000,
+    "1999": 48000,
+    "2000": 49000,
+    "2001": 50000
+  }
+},
+"infiniti-q45-gen3": {
+  "displayName": "Infiniti Q45 Gen3 (Flagship luxury sedan, redesigned, VK45DE V8, final generation)",
+  "productionYears": [2002,2003,2004,2005,2006],
+  "successor": null,
+  "valuesUSD": {
+    "2002": 51000,
+    "2003": 52000,
+    "2004": 53000,
+    "2005": 54000,
+    "2006": 55000
+  }
+},
+"infiniti-m30-gen1": {
+  "displayName": "Infiniti M30 (Luxury coupe/convertible, rebadged Nissan Leopard F31)",
+  "productionYears": [1990,1991,1992],
+  "successor": "Infiniti M35/M45 Gen2",
+  "valuesUSD": {
+    "1990": 28000,
+    "1991": 28500,
+    "1992": 29000
+  }
+},
+"infiniti-m35-m45-gen2": {
+  "displayName": "Infiniti M35/M45 Gen2 (Luxury mid-size sedan, based on Nissan Gloria/Cedric Y34)",
+  "productionYears": [2003,2004],
+  "successor": "Infiniti M35/M45 Gen3",
+  "valuesUSD": {
+    "2003": 42000,
+    "2004": 43000
+  }
+},
+"infiniti-m35-m45-gen3": {
+  "displayName": "Infiniti M35/M45 Gen3 (Luxury mid-size sedan, FM platform, shared with G35/350Z)",
+  "productionYears": [2005,2006,2007,2008,2009,2010],
+  "successor": "Infiniti M37/M56 Gen4",
+  "valuesUSD": {
+    "2005": 44000,
+    "2006": 45000,
+    "2007": 46000,
+    "2008": 47000,
+    "2009": 48000,
+    "2010": 49000
+  }
+},
+"infiniti-m37-m56-gen4": {
+  "displayName": "Infiniti M37/M56 Gen4 (Luxury mid-size sedan, Y51 platform, advanced tech, later renamed Q70)",
+  "productionYears": [2011,2012,2013,2014],
+  "successor": "Infiniti Q70",
+  "valuesUSD": {
+    "2011": 50000,
+    "2012": 51000,
+    "2013": 52000,
+    "2014": 53000
+  }
+},
+"infiniti-g20-gen1": {
+  "displayName": "Infiniti G20 Gen1 (Compact luxury sedan, Nissan Primera P10-based)",
+  "productionYears": [1991,1992,1993,1994,1995,1996],
+  "successor": "Infiniti G20 Gen2",
+  "valuesUSD": {
+    "1991": 21000,
+    "1992": 21500,
+    "1993": 22000,
+    "1994": 22500,
+    "1995": 23000,
+    "1996": 23500
+  }
+},
+"infiniti-g20-gen2": {
+  "displayName": "Infiniti G20 Gen2 (Compact luxury sedan, Nissan Primera P11-based, return after hiatus)",
+  "productionYears": [1999,2000,2001,2002],
+  "successor": "Infiniti G35 Gen3",
+  "valuesUSD": {
+    "1999": 24000,
+    "2000": 24500,
+    "2001": 25000,
+    "2002": 25500
+  }
+},
+"infiniti-g35-gen3": {
+  "displayName": "Infiniti G35 Gen3 (Mid-size luxury sedan/coupe, FM platform, shared with Nissan 350Z)",
+  "productionYears": [2003,2004,2005,2006],
+  "successor": "Infiniti G35 Gen4",
+  "valuesUSD": {
+    "2003": 30000,
+    "2004": 31000,
+    "2005": 32000,
+    "2006": 33000
+  }
+},
+"infiniti-g35-gen4": {
+  "displayName": "Infiniti G35 Gen4 (Mid-size luxury sedan/coupe, FM platform, refinement and tech upgrades)",
+  "productionYears": [2007,2008],
+  "successor": "Infiniti G37 Gen5",
+  "valuesUSD": {
+    "2007": 34000,
+    "2008": 35000
+  }
+},
+"infiniti-g37-gen5": {
+  "displayName": "Infiniti G37 Gen5 (Mid-size luxury sedan/coupe/convertible, FM platform, final G-Series before Q50)",
+  "productionYears": [2009,2010,2011,2012,2013],
+  "successor": "Infiniti Q50",
+  "valuesUSD": {
+    "2009": 36000,
+    "2010": 37000,
+    "2011": 38000,
+    "2012": 39000,
+    "2013": 40000
+  }
+},
+"infiniti-qx56-gen1": {
+  "displayName": "Infiniti QX56 Gen1 (Full-size luxury SUV, based on Nissan Armada/Titan, first Infiniti full-size SUV)",
+  "productionYears": [2004,2005,2006,2007,2008,2009,2010],
+  "successor": "Infiniti QX56 Gen2",
+  "valuesUSD": {
+    "2004": 49000,
+    "2005": 49500,
+    "2006": 50000,
+    "2007": 50500,
+    "2008": 51000,
+    "2009": 51500,
+    "2010": 52000
+  }
+},
+"infiniti-qx56-gen2": {
+  "displayName": "Infiniti QX56 Gen2 (Full-size luxury SUV, Y62 platform, shared with Nissan Patrol, later renamed QX80)",
+  "productionYears": [2011,2012,2013],
+  "successor": "Infiniti QX80",
+  "valuesUSD": {
+    "2011": 53000,
+    "2012": 54000,
+    "2013": 55000
+  }
+},
+"infiniti-jx35-gen1": {
+  "displayName": "Infiniti JX35 Gen1 (Luxury mid-size crossover SUV, three-row, based on Nissan Pathfinder R52)",
+  "productionYears": [2013],
+  "successor": "Infiniti QX60",
+  "valuesUSD": {
+    "2013": 42000
+  }
+},
+"infiniti-fx45-fx35-gen1": {
+  "displayName": "Infiniti FX35/FX45 Gen1 (Performance crossover SUV, FM platform, shared with Nissan 350Z/G35)",
+  "productionYears": [2003,2004,2005,2006,2007,2008],
+  "successor": "Infiniti FX35/FX50 Gen2",
+  "valuesUSD": {
+    "2003": 36000,
+    "2004": 37000,
+    "2005": 38000,
+    "2006": 39000,
+    "2007": 40000,
+    "2008": 41000
+  }
+},
+"infiniti-fx35-fx50-gen2": {
+  "displayName": "Infiniti FX35/FX50 Gen2 (Performance crossover SUV, redesigned, FM platform, more aggressive styling)",
+  "productionYears": [2009,2010,2011,2012,2013],
+  "successor": "Infiniti QX70",
+  "valuesUSD": {
+    "2009": 42000,
+    "2010": 43000,
+    "2011": 44000,
+    "2012": 45000,
+    "2013": 46000
+  }
+},
+"infiniti-ex35-gen1": {
+  "displayName": "Infiniti EX35 Gen1 (Compact luxury crossover SUV, FM platform, shared with G35/37)",
+  "productionYears": [2007,2008,2009,2010,2011,2012],
+  "successor": "Infiniti EX37 Gen2",
+  "valuesUSD": {
+    "2007": 33000,
+    "2008": 34000,
+    "2009": 35000,
+    "2010": 36000,
+    "2011": 37000,
+    "2012": 38000
+  }
+},
+"infiniti-ex37-gen2": {
+  "displayName": "Infiniti EX37 Gen2 (Compact luxury crossover SUV, facelift, renamed QX50 in 2014)",
+  "productionYears": [2013],
+  "successor": "Infiniti QX50",
+  "valuesUSD": {
+    "2013": 39000
+  }
+},
+"infiniti-qx70-gen1": {
+  "displayName": "Infiniti QX70 Gen1 (Performance luxury crossover SUV, renamed from FX-Series, FM platform)",
+  "productionYears": [2014,2015,2016,2017],
+  "successor": null,
+  "valuesUSD": {
+    "2014": 47000,
+    "2015": 48000,
+    "2016": 49000,
+    "2017": 50000
+  }
+},
+"infiniti-q70-gen1": {
+  "displayName": "Infiniti Q70 Gen1 (Luxury mid-size sedan, renamed from M-Series, Y51 platform)",
+  "productionYears": [2014,2015,2016,2017,2018,2019],
+  "successor": null,
+  "valuesUSD": {
+    "2014": 54000,
+    "2015": 55000,
+    "2016": 56000,
+    "2017": 57000,
+    "2018": 58000,
+    "2019": 59000
+  }
+},
+"infiniti-qx30-gen1": {
+  "displayName": "Infiniti QX30 Gen1 (Compact luxury crossover SUV, Mercedes-Benz MFA platform, shared with GLA/CLA)",
+  "productionYears": [2016,2017,2018,2019],
+  "successor": null,
+  "valuesUSD": {
+    "2016": 33000,
+    "2017": 34000,
+    "2018": 35000,
+    "2019": 36000
+  }
+},
+"infiniti-q30-gen1": {
+  "displayName": "Infiniti Q30 Gen1 (Compact luxury hatchback, Mercedes-Benz MFA platform, shared with A-Class/GLA)",
+  "productionYears": [2016,2017,2018,2019],
+  "successor": null,
+  "valuesUSD": {
+    "2016": 32000,
+    "2017": 33000,
+    "2018": 34000,
+    "2019": 35000
+  }
+},
+"infiniti-esq-gen1": {
+  "displayName": "Infiniti ESQ Gen1 (China-exclusive compact crossover SUV, rebadged Nissan Juke Nismo)",
+  "productionYears": [2014,2015,2016,2017],
+  "successor": null,
+  "valuesUSD": {
+    "2014": 28000,
+    "2015": 28500,
+    "2016": 29000,
+    "2017": 29500
+  }
+},
+"infiniti-q60-gen1": {
+  "displayName": "Infiniti Q60 Gen1 (Luxury coupe/convertible, successor to G37, FM platform)",
+  "productionYears": [2014,2015],
+  "successor": "Infiniti Q60 Gen2",
+  "valuesUSD": {
+    "2014": 41000,
+    "2015": 42000
+  }
+},
+"infiniti-q60-gen2": {
+  "displayName": "Infiniti Q60 Gen2 (Luxury coupe, VR30DDTT twin-turbo V6 option, advanced tech, performance flagship)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022,2023],
+  "successor": null,
+  "valuesUSD": {
+    "2016": 43000,
+    "2017": 44000,
+    "2018": 45000,
+    "2019": 46000,
+    "2020": 47000,
+    "2021": 48000,
+    "2022": 49000,
+    "2023": 50000
+  }
+},
+"infiniti-q50-gen1": {
+  "displayName": "Infiniti Q50 Gen1 (Luxury mid-size sedan, successor to G37, FM platform)",
+  "productionYears": [2014,2015],
+  "successor": "Infiniti Q50 Gen2",
+  "valuesUSD": {
+    "2014": 37000,
+    "2015": 38000
+  }
+},
+"infiniti-q50-gen2": {
+  "displayName": "Infiniti Q50 Gen2 (Luxury mid-size sedan, VR30DDTT twin-turbo V6 option, advanced tech, performance trims)",
+  "productionYears": [2016,2017,2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "valuesUSD": {
+    "2016": 39000,
+    "2017": 40000,
+    "2018": 41000,
+    "2019": 42000,
+    "2020": 43000,
+    "2021": 44000,
+    "2022": 45000,
+    "2023": 46000,
+    "2024": 47000,
+    "2025": 48000
+  }
+},
+"infiniti-qx55-gen1": {
+  "displayName": "Infiniti QX55 Gen1 (Compact luxury crossover coupe, derivative of QX50, coupe-styled roofline)",
+  "productionYears": [2021,2022,2023,2024,2025],
+  "successor": null,
+  "valuesUSD": {
+    "2021": 46000,
+    "2022": 47000,
+    "2023": 48000,
+    "2024": 49000,
+    "2025": 50000
+  }
+},
+"infiniti-qx50-gen1": {
+  "displayName": "Infiniti QX50 Gen1 (Compact luxury crossover SUV, renamed from EX-Series, FM platform)",
+  "productionYears": [2014,2015,2016,2017],
+  "successor": "Infiniti QX50 Gen2",
+  "valuesUSD": {
+    "2014": 39000,
+    "2015": 39500,
+    "2016": 40000,
+    "2017": 40500
+  }
+},
+"infiniti-qx50-gen2": {
+  "displayName": "Infiniti QX50 Gen2 (Compact luxury crossover SUV, VC-Turbo engine, new D-segment platform)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "valuesUSD": {
+    "2018": 42000,
+    "2019": 43000,
+    "2020": 44000,
+    "2021": 45000,
+    "2022": 46000,
+    "2023": 47000,
+    "2024": 48000,
+    "2025": 49000
+  }
+},
+"infiniti-qx80-gen1": {
+  "displayName": "Infiniti QX80 Gen1 (Full-size luxury SUV, renamed from QX56, Y62 platform shared with Nissan Patrol)",
+  "productionYears": [2014,2015,2016,2017],
+  "successor": "Infiniti QX80 Gen2",
+  "valuesUSD": {
+    "2014": 64000,
+    "2015": 65000,
+    "2016": 66000,
+    "2017": 67000
+  }
+},
+"infiniti-qx80-gen2": {
+  "displayName": "Infiniti QX80 Gen2 (Full-size luxury SUV, facelift with modernized styling and tech upgrades)",
+  "productionYears": [2018,2019,2020,2021,2022,2023,2024,2025],
+  "successor": null,
+  "valuesUSD": {
+    "2018": 68000,
+    "2019": 69000,
+    "2020": 70000,
+    "2021": 71000,
+    "2022": 72000,
+    "2023": 73000,
+    "2024": 74000,
+    "2025": 75000
+  }
+},
+"infiniti-qx60-gen1": {
+  "displayName": "Infiniti QX60 Gen1 (Mid-size three-row luxury crossover SUV, successor to JX35, Nissan Pathfinder R52 platform)",
+  "productionYears": [2014,2015,2016,2017,2018,2019,2020,2021],
+  "successor": "Infiniti QX60 Gen2",
+  "valuesUSD": {
+    "2014": 43000,
+    "2015": 44000,
+    "2016": 45000,
+    "2017": 46000,
+    "2018": 47000,
+    "2019": 48000,
+    "2020": 49000,
+    "2021": 50000
+  }
+},
+"infiniti-qx60-gen2": {
+  "displayName": "Infiniti QX60 Gen2 (Mid-size three-row luxury crossover SUV, redesigned, new styling and tech, VC-Turbo option)",
+  "productionYears": [2022,2023,2024,2025],
+  "successor": null,
+  "valuesUSD": {
+    "2022": 52000,
+    "2023": 53000,
+    "2024": 54000,
+    "2025": 55000
+  }
+}
+    },
+    "Jaguar":{
+      
+    },
     "Jeep":{},
     "Kia":{},
     "Koenigsegg":{},
